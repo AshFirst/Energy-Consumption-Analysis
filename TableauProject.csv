@@ -1,0 +1,1001 @@
+HOUSEHOLD_ID,REGION,COUNTRY,ENERGY_SOURCE,MONTHLY_USAGE_KWH,YEAR,HOUSEHOLD_SIZE,INCOME_LEVEL,URBAN_RURAL,ADOPTION_YEAR,SUBSIDY_RECEIVED,COST_SAVINGS_USD
+H01502,North America,USA,Hydro,1147.84,2024,5,Low,Urban,2012,false,7.32
+H02654,North America,USA,Biomass,1316.43,2024,8,Low,Rural,2017,true,65.30
+H02469,Australia,New Zealand,Geothermal,835.15,2024,4,Low,Urban,2020,true,88.91
+H02414,South America,Peru,Biomass,628.87,2021,6,Low,Rural,2021,true,139.44
+H03022,Africa,Ghana,Biomass,1484.46,2020,2,Low,Rural,2012,true,238.20
+H01074,Asia,India,Wind,820.02,2024,5,Low,Urban,2010,true,264.78
+H01745,Asia,China,Wind,807.07,2022,3,Low,Rural,2019,true,118.11
+H04768,Europe,Italy,Wind,1515.67,2023,4,Low,Rural,2020,true,160.27
+H01963,South America,Argentina,Wind,696.04,2023,6,Low,Rural,2010,false,33.51
+H04843,Europe,Germany,Geothermal,1103.74,2023,1,Low,Rural,2019,true,117.67
+H04867,South America,Colombia,Solar,1442.41,2023,6,Low,Rural,2019,true,327.06
+H01756,Africa,Kenya,Solar,1500.22,2021,1,Low,Rural,2021,true,34.95
+H02516,Asia,Japan,Biomass,1361.58,2021,8,Low,Urban,2020,false,217.41
+H03600,North America,Canada,Solar,1595.48,2023,1,Low,Rural,2019,false,93.95
+H04122,Asia,Japan,Solar,1487.81,2022,4,Low,Urban,2017,true,100.40
+H03774,Asia,Japan,Geothermal,559.06,2021,8,Low,Rural,2014,true,259.36
+H03162,North America,USA,Solar,314.95,2020,3,Low,Urban,2020,true,304.42
+H04629,Europe,UK,Wind,555.59,2020,8,Low,Urban,2015,true,71.07
+H02452,Europe,France,Biomass,283.49,2024,2,Low,Rural,2012,true,94.51
+H02571,Africa,South Africa,Solar,1504.54,2021,2,Low,Urban,2011,true,260.85
+H02378,North America,USA,Solar,107.01,2022,7,Low,Rural,2012,false,226.68
+H04396,Europe,France,Hydro,101.64,2021,6,Low,Urban,2010,false,174.43
+H03863,North America,USA,Wind,247.85,2023,2,Low,Rural,2012,false,161.99
+H00024,South America,Chile,Geothermal,607.57,2023,2,Low,Rural,2014,true,228.03
+H02634,South America,Colombia,Biomass,1032.67,2022,4,Low,Urban,2021,true,303.00
+H03341,Europe,Germany,Hydro,174.47,2023,1,Low,Rural,2019,true,141.53
+H00712,Africa,Ghana,Wind,1177.51,2024,6,Low,Rural,2023,false,304.84
+H02802,Africa,Kenya,Hydro,398.99,2020,4,Low,Rural,2020,true,306.30
+H03753,Europe,Italy,Biomass,190.85,2020,8,Low,Urban,2018,true,298.48
+H03182,South America,Brazil,Wind,319.77,2021,3,Low,Rural,2014,true,21.81
+H04184,Asia,South Korea,Solar,1480.93,2023,3,Low,Urban,2021,true,307.88
+H01616,North America,USA,Wind,569.66,2023,1,Low,Rural,2019,true,158.63
+H00764,Europe,Spain,Biomass,1469.90,2022,6,Low,Urban,2015,false,151.33
+H04798,South America,Peru,Wind,1300.01,2020,8,Low,Urban,2012,false,161.24
+H03850,South America,Chile,Hydro,559.32,2024,2,Low,Urban,2014,true,275.99
+H01296,North America,Canada,Solar,1195.37,2024,4,Low,Urban,2012,false,244.48
+H00374,South America,Brazil,Biomass,862.21,2022,2,Low,Urban,2011,true,261.49
+H01670,Africa,Nigeria,Biomass,62.45,2021,7,Low,Rural,2019,true,242.84
+H04440,North America,USA,Biomass,139.68,2021,5,Low,Urban,2015,false,131.79
+H00466,Europe,Italy,Hydro,1518.64,2023,7,Low,Rural,2022,true,334.23
+H01339,South America,Colombia,Hydro,437.77,2024,5,Low,Urban,2022,true,115.37
+H01371,Asia,India,Wind,1404.81,2022,1,Low,Rural,2014,true,285.33
+H00200,Asia,Indonesia,Hydro,1502.52,2022,6,Low,Urban,2017,true,51.24
+H04750,North America,USA,Hydro,532.52,2022,8,Low,Rural,2013,false,83.68
+H03151,South America,Brazil,Hydro,539.96,2022,5,Low,Rural,2021,true,49.55
+H03969,Australia,New Zealand,Geothermal,731.51,2020,2,Low,Rural,2020,true,348.35
+H03822,Asia,South Korea,Wind,1627.73,2021,2,Low,Urban,2011,false,324.65
+H04488,South America,Brazil,Biomass,662.68,2020,5,Low,Rural,2013,true,322.53
+H03581,North America,Mexico,Biomass,172.92,2021,4,Low,Rural,2017,true,224.94
+H04903,South America,Colombia,Biomass,660.34,2022,1,Low,Urban,2012,true,13.16
+H00009,North America,Canada,Solar,576.69,2021,1,Low,Urban,2011,false,114.79
+H00145,Australia,New Zealand,Hydro,835.35,2020,4,Low,Urban,2010,true,119.53
+H02105,Asia,South Korea,Geothermal,330.46,2020,4,Low,Rural,2015,false,7.32
+H00842,Europe,France,Wind,1235.20,2024,2,Low,Urban,2020,true,73.74
+H03592,South America,Argentina,Wind,1324.76,2020,5,Low,Urban,2013,true,298.51
+H01053,Asia,India,Solar,761.18,2021,2,Low,Urban,2018,false,302.34
+H02030,North America,Canada,Wind,487.09,2023,7,Low,Rural,2020,false,296.87
+H01808,North America,Canada,Hydro,157.78,2022,4,Low,Urban,2022,false,188.80
+H02697,North America,Canada,Biomass,1583.75,2021,4,Low,Rural,2021,false,278.91
+H00473,South America,Argentina,Wind,1370.59,2023,7,Low,Urban,2014,true,170.20
+H03497,Africa,Ghana,Wind,1324.76,2022,5,Low,Rural,2018,true,216.72
+H04625,Africa,Ghana,Solar,722.41,2020,6,Low,Urban,2010,true,326.57
+H03571,Asia,Japan,Solar,1009.28,2022,3,Low,Rural,2010,true,259.73
+H03685,Asia,Indonesia,Hydro,1308.10,2020,6,Low,Urban,2014,false,183.04
+H00830,Europe,Germany,Wind,891.15,2020,6,Low,Urban,2011,true,175.96
+H00765,Australia,Australia,Hydro,1420.89,2022,4,Low,Rural,2020,true,80.27
+H04329,Africa,South Africa,Wind,1090.55,2022,5,Low,Rural,2020,true,290.09
+H02195,North America,Mexico,Biomass,666.09,2023,5,Low,Rural,2012,true,20.17
+H03426,Africa,Ghana,Biomass,714.43,2022,1,Low,Urban,2012,true,258.30
+H04077,Europe,Spain,Wind,1296.78,2022,5,Low,Urban,2015,true,195.67
+H02371,Africa,Kenya,Wind,480.37,2022,2,Low,Rural,2014,true,24.49
+H01021,North America,USA,Geothermal,1547.58,2024,5,Low,Rural,2021,true,75.66
+H00734,Asia,China,Solar,327.72,2024,3,Low,Urban,2014,false,57.52
+H04583,South America,Colombia,Hydro,1595.37,2023,6,Low,Urban,2019,false,292.32
+H01621,Asia,Japan,Wind,482.78,2022,1,Low,Rural,2020,false,50.51
+H03136,Australia,Australia,Hydro,795.34,2023,5,Low,Urban,2023,true,345.84
+H02690,Africa,Nigeria,Hydro,1430.41,2023,4,Low,Rural,2023,false,319.33
+H00298,Asia,Indonesia,Biomass,917.66,2023,8,Low,Rural,2018,false,216.90
+H02340,Australia,Australia,Hydro,1148.69,2024,4,Low,Urban,2013,true,143.37
+H00654,Africa,Ghana,Solar,1160.95,2021,3,Low,Rural,2014,true,216.80
+H01256,Australia,Australia,Wind,1325.39,2023,5,Low,Urban,2011,false,308.49
+H00231,Asia,India,Geothermal,832.76,2024,8,Low,Rural,2017,false,120.04
+H03231,Africa,Kenya,Biomass,188.10,2023,6,Low,Rural,2018,true,316.21
+H00692,Australia,Australia,Wind,1044.03,2020,7,Low,Rural,2012,false,27.76
+H00634,South America,Peru,Biomass,1342.57,2021,1,Low,Rural,2017,false,338.63
+H04078,Africa,South Africa,Geothermal,441.85,2022,6,Low,Urban,2014,true,12.73
+H01322,South America,Chile,Wind,186.03,2023,4,Low,Rural,2013,false,334.39
+H01832,Europe,Italy,Wind,498.19,2024,1,Low,Rural,2020,true,31.79
+H01783,Europe,UK,Geothermal,1027.77,2023,7,Low,Rural,2020,true,61.99
+H04716,Africa,Kenya,Wind,424.94,2022,7,Low,Rural,2010,false,181.51
+H04702,Asia,Japan,Solar,794.61,2022,6,Low,Rural,2022,false,23.42
+H00706,Africa,Egypt,Hydro,329.35,2022,7,Middle,Rural,2010,false,52.78
+H02465,Europe,Germany,Wind,462.42,2024,8,Middle,Urban,2018,false,152.73
+H00229,Europe,France,Hydro,1579.08,2023,7,Middle,Rural,2015,true,247.90
+H00916,Asia,South Korea,Wind,72.14,2020,5,Middle,Rural,2019,true,356.09
+H00795,South America,Chile,Geothermal,1201.70,2021,8,Middle,Urban,2021,true,386.73
+H00927,Australia,New Zealand,Solar,1057.04,2024,4,Middle,Urban,2020,false,387.17
+H01118,Europe,Italy,Hydro,156.79,2021,4,Middle,Urban,2010,false,336.63
+H00502,Africa,Ghana,Biomass,71.93,2020,8,Middle,Rural,2014,true,11.35
+H00394,Australia,Australia,Wind,1274.50,2022,5,Middle,Urban,2015,false,67.26
+H04316,Australia,Australia,Biomass,153.94,2020,3,Middle,Urban,2015,true,108.49
+H03907,Australia,Australia,Biomass,1428.91,2022,4,Middle,Rural,2011,true,124.10
+H02660,Africa,Kenya,Geothermal,1067.84,2024,4,Middle,Rural,2020,false,187.54
+H04616,Europe,France,Hydro,1696.75,2024,1,Middle,Rural,2011,true,259.29
+H02847,Africa,Egypt,Wind,386.35,2024,2,Middle,Urban,2021,false,219.26
+H01145,Africa,Ghana,Wind,791.69,2020,1,Middle,Urban,2011,false,326.68
+H00169,Asia,India,Biomass,1365.72,2023,2,Middle,Urban,2021,false,21.78
+H04258,Asia,India,Geothermal,688.25,2023,1,Middle,Urban,2018,false,111.97
+H02216,South America,Colombia,Wind,1328.56,2022,2,Middle,Rural,2016,true,95.59
+H03683,Asia,India,Solar,1766.95,2023,2,Middle,Rural,2013,false,62.93
+H04725,Australia,New Zealand,Solar,1098.31,2020,6,Middle,Rural,2014,true,190.54
+H00297,Asia,India,Wind,424.61,2021,8,Middle,Urban,2013,false,358.18
+H01002,South America,Chile,Biomass,170.00,2020,7,Middle,Rural,2018,false,269.38
+H02139,Asia,India,Solar,576.46,2023,3,Middle,Urban,2013,false,249.87
+H03322,North America,Mexico,Geothermal,1579.03,2021,1,Middle,Urban,2010,false,324.91
+H04154,Asia,Indonesia,Hydro,1357.24,2024,6,Middle,Urban,2020,true,193.93
+H00158,North America,Canada,Geothermal,374.92,2024,6,Middle,Rural,2022,true,232.44
+H00498,Africa,Egypt,Biomass,1653.38,2023,5,Middle,Urban,2019,false,152.62
+H04741,Asia,Japan,Solar,234.70,2020,1,Middle,Rural,2013,false,23.30
+H02941,North America,Mexico,Biomass,1631.80,2020,3,Middle,Rural,2018,true,54.06
+H03457,Europe,Spain,Wind,948.49,2024,7,Middle,Rural,2015,true,374.30
+H00080,Asia,Indonesia,Geothermal,1439.11,2020,3,Middle,Urban,2013,true,357.04
+H02132,South America,Peru,Solar,419.03,2023,8,Middle,Rural,2018,false,233.47
+H00932,Africa,Ghana,Biomass,330.72,2021,3,Middle,Urban,2010,false,267.92
+H04210,Australia,Australia,Biomass,823.13,2023,4,Middle,Urban,2021,true,296.62
+H00743,Australia,Australia,Wind,104.83,2024,3,Middle,Urban,2023,true,236.14
+H02324,Asia,China,Wind,707.65,2021,5,Middle,Rural,2017,true,360.35
+H02124,Australia,Australia,Wind,393.19,2021,5,Middle,Urban,2015,false,209.05
+H02352,North America,Mexico,Solar,647.20,2024,5,Middle,Urban,2010,true,191.24
+H01058,Asia,South Korea,Solar,1114.37,2020,7,Middle,Rural,2017,false,203.30
+H04817,Africa,Egypt,Solar,444.73,2021,1,Middle,Rural,2017,true,378.31
+H02221,Europe,UK,Solar,819.01,2020,3,Middle,Rural,2016,false,38.34
+H04257,Africa,South Africa,Wind,1787.78,2020,5,Middle,Urban,2017,false,392.10
+H01974,Europe,Spain,Biomass,515.02,2021,7,Middle,Urban,2016,false,96.40
+H04063,South America,Brazil,Solar,1312.13,2022,2,Middle,Rural,2016,false,225.56
+H00180,North America,USA,Geothermal,90.58,2022,5,Middle,Rural,2010,true,233.98
+H04879,Australia,New Zealand,Hydro,366.68,2021,5,Middle,Rural,2012,false,119.78
+H02888,Asia,China,Geothermal,1749.24,2020,1,Middle,Urban,2019,true,337.76
+H01420,Australia,Australia,Geothermal,1128.38,2021,7,Middle,Rural,2014,false,258.42
+H03908,Australia,Australia,Biomass,1712.92,2022,8,Middle,Rural,2010,true,64.26
+H04674,Asia,Japan,Biomass,358.32,2022,6,Middle,Rural,2016,false,86.76
+H01861,Europe,Spain,Biomass,1319.30,2021,6,Middle,Urban,2014,false,86.26
+H02848,South America,Argentina,Biomass,226.20,2021,5,Middle,Urban,2017,false,268.58
+H03144,Africa,Egypt,Geothermal,1772.41,2020,4,Middle,Rural,2015,true,12.96
+H01129,Europe,Spain,Geothermal,1586.50,2023,4,Middle,Rural,2017,true,317.24
+H00152,South America,Colombia,Wind,1616.54,2022,6,Middle,Urban,2014,false,202.51
+H03419,South America,Colombia,Geothermal,921.74,2021,6,Middle,Urban,2014,true,310.25
+H03040,South America,Peru,Solar,119.94,2022,3,Middle,Rural,2018,false,302.87
+H01742,Asia,China,Hydro,180.72,2021,5,Middle,Rural,2010,false,300.72
+H02887,North America,Mexico,Solar,1030.38,2022,6,Middle,Rural,2010,false,392.70
+H01942,North America,Canada,Geothermal,1545.88,2020,3,Middle,Rural,2015,true,99.52
+H03662,North America,Canada,Hydro,1436.04,2022,3,Middle,Urban,2014,false,131.66
+H01887,Europe,Italy,Biomass,1484.57,2024,5,Middle,Urban,2012,false,291.10
+H00682,Australia,Australia,Wind,396.02,2024,5,Middle,Urban,2018,true,239.96
+H03795,North America,USA,Solar,1326.96,2022,7,Middle,Urban,2019,false,309.09
+H01097,Australia,Australia,Wind,741.36,2024,2,Middle,Rural,2015,false,362.56
+H02806,South America,Colombia,Hydro,651.70,2021,6,Middle,Rural,2017,true,23.02
+H03830,South America,Peru,Solar,1629.72,2023,7,Middle,Urban,2013,true,145.35
+H04382,North America,Canada,Biomass,483.31,2022,6,Middle,Urban,2021,false,314.54
+H03892,Asia,Indonesia,Biomass,1027.56,2020,5,Middle,Urban,2017,true,67.56
+H00912,North America,Canada,Solar,439.99,2024,7,Middle,Rural,2022,false,60.67
+H03146,Australia,Australia,Wind,1755.68,2020,6,Middle,Urban,2018,true,396.65
+H01000,Australia,Australia,Hydro,989.35,2024,2,Middle,Rural,2017,false,109.74
+H04839,Africa,Nigeria,Hydro,825.64,2024,3,Middle,Urban,2016,false,34.56
+H03275,Africa,Egypt,Solar,1157.02,2020,8,Middle,Urban,2011,false,341.14
+H02708,South America,Peru,Wind,61.00,2022,3,Middle,Urban,2014,false,297.04
+H03277,Africa,Nigeria,Biomass,1702.20,2020,3,Middle,Urban,2012,false,26.64
+H02755,Australia,Australia,Biomass,1564.18,2022,6,Middle,Urban,2021,false,268.87
+H04864,South America,Colombia,Solar,1343.48,2023,7,Middle,Urban,2015,true,282.38
+H01653,Asia,South Korea,Hydro,1112.90,2021,7,Middle,Urban,2015,true,105.55
+H02276,Asia,South Korea,Geothermal,608.39,2024,7,Middle,Urban,2012,true,336.09
+H02587,Australia,Australia,Geothermal,793.01,2024,4,High,Rural,2023,false,39.14
+H01056,South America,Colombia,Biomass,818.57,2024,7,High,Urban,2023,false,425.57
+H00107,South America,Brazil,Biomass,488.79,2022,2,High,Urban,2011,false,18.84
+H00590,Africa,Ghana,Geothermal,711.75,2020,8,High,Rural,2012,true,19.79
+H01601,South America,Argentina,Geothermal,1107.30,2023,8,High,Urban,2019,true,97.28
+H03544,Africa,South Africa,Geothermal,993.75,2022,7,High,Rural,2022,false,352.03
+H03352,Asia,Indonesia,Hydro,778.32,2022,3,High,Rural,2012,true,163.49
+H01085,Europe,Spain,Solar,437.39,2022,2,High,Rural,2013,false,440.76
+H03050,Africa,Ghana,Solar,1704.53,2020,1,High,Rural,2018,false,80.06
+H00643,Asia,Indonesia,Solar,161.77,2020,6,High,Rural,2013,true,195.92
+H04067,Africa,Nigeria,Geothermal,1540.90,2022,7,High,Urban,2014,true,23.32
+H00334,North America,USA,Solar,644.97,2020,3,High,Urban,2011,true,275.18
+H04685,Africa,Egypt,Wind,1707.85,2020,8,High,Rural,2014,false,34.89
+H00487,South America,Colombia,Hydro,1576.11,2023,8,High,Rural,2023,false,314.70
+H03586,Asia,Japan,Hydro,477.23,2020,6,High,Rural,2014,true,25.04
+H04967,Australia,New Zealand,Solar,515.79,2020,5,High,Urban,2014,false,353.18
+H02100,North America,USA,Biomass,297.18,2024,2,High,Rural,2014,true,167.78
+H00030,Australia,New Zealand,Geothermal,1578.14,2024,5,High,Urban,2016,false,281.41
+H00066,Africa,Kenya,Solar,1908.83,2023,1,High,Rural,2010,true,141.17
+H00839,North America,Mexico,Solar,179.54,2022,2,High,Rural,2013,false,196.41
+H04636,Australia,Australia,Geothermal,623.90,2022,6,High,Urban,2011,true,142.25
+H03079,North America,USA,Biomass,1746.71,2023,7,High,Rural,2021,false,241.92
+H01104,Australia,Australia,Solar,580.96,2024,8,High,Urban,2017,true,384.18
+H01671,Europe,UK,Wind,734.73,2021,6,High,Urban,2015,true,357.07
+H01908,South America,Peru,Geothermal,1934.09,2023,7,High,Urban,2023,true,250.83
+H00085,South America,Brazil,Geothermal,1387.74,2023,6,High,Urban,2022,true,133.97
+H00228,South America,Peru,Geothermal,340.73,2022,6,High,Rural,2011,false,31.45
+H02528,Europe,France,Wind,1318.50,2023,1,High,Urban,2023,false,349.43
+H03025,South America,Peru,Geothermal,807.24,2021,4,High,Rural,2014,true,189.39
+H01414,South America,Peru,Solar,982.64,2020,1,High,Rural,2016,false,85.31
+H00656,Europe,Spain,Wind,1041.90,2021,2,High,Urban,2018,false,363.56
+H00469,North America,Mexico,Biomass,1738.48,2021,8,High,Rural,2013,false,64.85
+H01554,Europe,UK,Solar,803.22,2022,2,High,Rural,2011,false,53.83
+H00249,North America,USA,Wind,1493.04,2024,7,High,Urban,2011,true,207.06
+H01336,South America,Argentina,Biomass,854.71,2024,8,High,Rural,2013,true,157.16
+H04525,South America,Chile,Wind,89.66,2021,7,High,Urban,2021,false,200.60
+H01407,Europe,France,Geothermal,1826.05,2020,6,High,Rural,2012,true,216.29
+H01091,Asia,Indonesia,Hydro,157.07,2022,6,High,Rural,2010,true,153.00
+H03602,Australia,New Zealand,Wind,943.41,2022,7,High,Rural,2015,false,162.43
+H02095,North America,Canada,Hydro,375.40,2020,8,High,Rural,2017,true,222.77
+H00241,Africa,Ghana,Hydro,701.19,2023,3,High,Urban,2021,false,356.05
+H02281,North America,USA,Solar,745.25,2020,7,High,Urban,2019,false,184.71
+H04772,Africa,Ghana,Biomass,839.01,2020,3,High,Urban,2012,false,208.22
+H02820,Europe,Spain,Biomass,1695.77,2023,6,High,Rural,2014,true,192.86
+H03108,North America,Canada,Biomass,805.68,2022,7,High,Urban,2012,false,94.22
+H01376,Australia,New Zealand,Solar,401.04,2020,7,High,Urban,2011,true,303.93
+H04446,Europe,Spain,Hydro,641.68,2022,5,High,Urban,2010,true,289.22
+H03558,Asia,Japan,Biomass,1278.82,2023,4,High,Rural,2011,false,53.41
+H00965,South America,Argentina,Biomass,1894.23,2022,6,High,Rural,2020,false,218.83
+H03699,South America,Brazil,Hydro,1701.19,2023,7,High,Rural,2013,false,34.79
+H03900,Africa,Ghana,Solar,1142.65,2021,1,High,Rural,2014,true,321.85
+H03239,Africa,Ghana,Biomass,560.74,2024,3,High,Urban,2019,true,306.08
+H02975,Asia,South Korea,Wind,253.89,2022,3,High,Rural,2016,false,119.63
+H02576,Asia,Japan,Geothermal,614.91,2020,5,High,Rural,2015,false,92.42
+H02895,North America,Canada,Wind,267.83,2020,5,High,Rural,2016,false,376.16
+H03665,Europe,Spain,Biomass,973.58,2022,4,High,Rural,2019,true,326.91
+H01591,Africa,Egypt,Wind,1547.46,2020,2,High,Rural,2010,true,338.30
+H03009,South America,Peru,Hydro,1275.05,2021,1,High,Rural,2014,true,313.88
+H03290,Africa,Ghana,Hydro,453.30,2022,7,High,Urban,2017,true,364.77
+H04075,North America,USA,Wind,627.29,2022,1,High,Urban,2016,false,125.32
+H00280,Australia,Australia,Solar,209.43,2021,8,High,Rural,2014,false,166.73
+H00101,North America,Canada,Hydro,668.20,2021,2,High,Rural,2014,false,172.22
+H02805,Australia,Australia,Hydro,1481.38,2020,1,High,Urban,2012,false,70.38
+H00531,Asia,Japan,Solar,1288.74,2023,2,High,Rural,2015,false,435.41
+H03945,North America,Canada,Wind,322.43,2021,1,High,Rural,2015,false,41.33
+H04667,Australia,New Zealand,Hydro,536.69,2022,1,High,Urban,2011,false,449.58
+H02019,North America,Mexico,Solar,1319.31,2022,1,High,Rural,2022,false,164.64
+H02768,South America,Colombia,Solar,1697.31,2021,4,High,Urban,2010,true,190.94
+H03296,North America,Mexico,Biomass,1217.45,2022,8,High,Rural,2022,true,118.28
+H02358,Australia,New Zealand,Solar,437.67,2024,4,High,Urban,2016,false,291.54
+H03980,Europe,Germany,Biomass,1806.23,2024,8,High,Urban,2020,false,127.06
+H03654,Australia,Australia,Hydro,1067.07,2023,2,High,Urban,2016,false,310.92
+H02484,Asia,India,Geothermal,824.67,2023,5,High,Rural,2022,true,84.48
+H00034,Asia,Japan,Biomass,295.82,2022,2,High,Urban,2010,false,256.55
+H03790,South America,Chile,Solar,267.83,2021,5,High,Urban,2021,false,121.35
+H01648,Asia,Indonesia,Biomass,1412.68,2023,1,High,Rural,2023,false,212.36
+H03775,Australia,Australia,Solar,425.52,2024,2,High,Urban,2024,false,96.90
+H04521,Europe,France,Hydro,895.38,2021,2,High,Rural,2010,true,150.14
+H00970,South America,Chile,Biomass,1438.26,2024,8,High,Urban,2021,false,432.41
+H04093,Asia,Japan,Biomass,1624.21,2022,3,High,Rural,2022,true,98.40
+H02179,Asia,Japan,Biomass,77.82,2022,4,High,Rural,2016,false,158.45
+H01418,Europe,UK,Biomass,827.14,2024,7,High,Urban,2024,true,167.46
+H04119,Asia,China,Geothermal,845.75,2023,7,High,Urban,2015,false,40.35
+H01484,Europe,France,Geothermal,302.39,2021,4,High,Urban,2017,false,267.33
+H00878,North America,Canada,Solar,82.28,2023,5,High,Urban,2015,false,330.84
+H00427,Africa,Egypt,Geothermal,145.93,2024,7,Middle,Rural,2014,false,44.74
+H01590,North America,Canada,Geothermal,1445.15,2021,4,Middle,Urban,2013,true,176.80
+H02224,North America,USA,Wind,125.38,2020,2,Middle,Rural,2015,true,329.49
+H04484,Africa,South Africa,Solar,1618.31,2022,1,Middle,Rural,2018,false,158.70
+H02894,South America,Peru,Hydro,1628.15,2022,1,Middle,Rural,2019,false,112.51
+H00677,South America,Argentina,Biomass,946.69,2022,7,Middle,Rural,2013,false,181.72
+H01834,Australia,New Zealand,Hydro,756.55,2023,5,Middle,Urban,2022,false,125.14
+H01425,Europe,Spain,Wind,1036.32,2023,4,Middle,Urban,2018,false,149.39
+H03937,Asia,South Korea,Biomass,1283.34,2020,6,Middle,Rural,2012,false,33.92
+H03269,Africa,Nigeria,Wind,904.52,2024,1,Middle,Rural,2018,false,307.53
+H03065,Asia,India,Wind,364.74,2024,6,Middle,Rural,2024,false,138.54
+H02226,Europe,Germany,Hydro,677.87,2023,7,Middle,Urban,2016,true,373.13
+H04265,South America,Brazil,Biomass,373.24,2020,6,Middle,Rural,2017,false,301.43
+H01171,Australia,New Zealand,Geothermal,1754.75,2020,6,Middle,Rural,2010,true,50.30
+H00472,Africa,Ghana,Wind,80.11,2020,8,Middle,Urban,2016,true,189.02
+H03226,Europe,Spain,Wind,949.70,2020,3,Middle,Urban,2017,false,321.53
+H04505,North America,Canada,Solar,878.41,2023,2,Middle,Urban,2020,false,221.76
+H04693,Australia,New Zealand,Geothermal,576.41,2023,3,Middle,Rural,2016,true,338.65
+H02827,Europe,Spain,Wind,1636.72,2024,5,Middle,Rural,2019,false,253.53
+H03626,Europe,Spain,Hydro,1172.35,2022,4,Middle,Rural,2016,true,222.83
+H02313,South America,Colombia,Solar,1333.79,2024,1,Middle,Rural,2017,true,342.89
+H00995,Africa,Kenya,Geothermal,327.76,2024,5,Middle,Rural,2015,false,115.34
+H02643,North America,USA,Geothermal,1165.56,2023,6,Middle,Urban,2014,false,18.06
+H04832,Africa,Nigeria,Biomass,81.22,2024,7,Middle,Rural,2024,false,113.83
+H00506,South America,Colombia,Hydro,617.99,2022,3,Middle,Urban,2017,true,184.89
+H04153,Africa,Ghana,Hydro,1757.52,2023,7,Middle,Urban,2022,false,331.97
+H04149,Africa,Egypt,Hydro,933.58,2022,8,Middle,Urban,2013,true,23.84
+H01184,South America,Peru,Hydro,780.17,2022,5,Middle,Urban,2013,true,54.37
+H00894,Australia,Australia,Geothermal,1028.93,2022,6,Middle,Urban,2012,true,253.98
+H00556,Asia,South Korea,Solar,654.82,2021,8,Middle,Rural,2021,false,240.19
+H03826,Asia,China,Geothermal,1343.02,2023,2,Middle,Rural,2019,true,341.82
+H04254,Africa,South Africa,Biomass,155.24,2021,2,Middle,Urban,2012,true,184.10
+H02222,Asia,Japan,Geothermal,501.06,2020,5,Middle,Rural,2012,false,191.95
+H02094,South America,Brazil,Wind,751.31,2024,7,Middle,Rural,2013,true,72.20
+H02188,South America,Chile,Hydro,64.33,2024,2,Middle,Urban,2014,true,31.38
+H03919,Australia,New Zealand,Biomass,499.33,2020,4,Middle,Rural,2020,false,127.79
+H01273,North America,Canada,Wind,1073.82,2022,2,Middle,Rural,2020,true,399.12
+H00291,Africa,South Africa,Wind,1451.57,2020,2,Middle,Rural,2010,false,22.72
+H03246,North America,Mexico,Wind,574.64,2022,4,Middle,Urban,2011,true,113.52
+H00351,North America,USA,Wind,707.46,2022,8,Middle,Urban,2015,false,172.69
+H02237,North America,Canada,Solar,1786.62,2020,2,Middle,Urban,2015,false,293.74
+H00671,Africa,Nigeria,Hydro,112.43,2023,3,Middle,Rural,2011,false,70.90
+H03041,South America,Colombia,Solar,991.28,2022,4,Middle,Urban,2014,true,274.47
+H00430,Africa,Ghana,Hydro,620.22,2022,6,Middle,Urban,2013,true,398.66
+H03236,Australia,Australia,Biomass,490.75,2021,7,Middle,Urban,2016,false,138.73
+H01030,South America,Peru,Wind,604.24,2022,1,Middle,Rural,2021,false,198.78
+H04393,Africa,Nigeria,Wind,313.01,2021,7,Middle,Urban,2015,true,48.58
+H02510,Europe,Spain,Solar,707.32,2021,3,Middle,Rural,2016,false,80.22
+H04648,Australia,New Zealand,Wind,661.27,2022,5,Middle,Rural,2013,true,309.70
+H02451,Asia,Japan,Biomass,1175.41,2022,8,Middle,Rural,2018,false,302.71
+H01579,Asia,China,Hydro,1442.96,2022,8,Middle,Urban,2017,false,15.83
+H00070,Europe,UK,Hydro,554.72,2021,1,Middle,Rural,2017,true,214.26
+H02754,Australia,New Zealand,Geothermal,1168.24,2024,6,Middle,Urban,2010,true,333.58
+H01633,Africa,Kenya,Hydro,258.26,2021,7,Middle,Urban,2012,true,253.51
+H03107,Europe,France,Wind,1514.41,2023,8,Middle,Urban,2013,false,373.76
+H01075,Asia,South Korea,Wind,1780.38,2020,7,Middle,Urban,2016,true,357.70
+H00788,Europe,France,Hydro,1232.76,2023,3,Middle,Urban,2012,true,109.37
+H03631,Europe,Germany,Hydro,226.19,2024,2,Middle,Rural,2022,false,387.35
+H02122,Australia,New Zealand,Geothermal,1009.51,2021,4,Middle,Rural,2011,true,310.88
+H01875,Africa,Egypt,Wind,1174.66,2021,8,Middle,Urban,2010,true,293.86
+H00812,Australia,Australia,Biomass,1516.22,2022,4,Middle,Rural,2015,true,72.76
+H00388,Africa,Egypt,Solar,1219.69,2021,7,Middle,Rural,2020,false,181.03
+H02624,North America,Mexico,Hydro,1558.01,2020,5,Middle,Urban,2011,true,179.36
+H00411,Europe,Spain,Biomass,483.17,2023,4,Middle,Rural,2014,true,153.62
+H04213,South America,Brazil,Solar,1283.86,2024,7,Middle,Rural,2022,false,199.24
+H03430,Europe,Germany,Hydro,1380.56,2020,5,Middle,Urban,2020,true,149.34
+H02810,Africa,Egypt,Wind,1716.85,2021,8,Middle,Rural,2013,false,228.58
+H02595,Australia,New Zealand,Solar,1079.18,2020,2,Middle,Urban,2016,true,212.74
+H01236,South America,Chile,Biomass,1618.80,2020,4,Middle,Urban,2018,false,272.14
+H04976,North America,Mexico,Wind,1532.50,2021,7,Middle,Rural,2015,false,94.58
+H02054,Asia,South Korea,Biomass,723.55,2024,6,Middle,Rural,2019,false,17.62
+H02908,Asia,China,Hydro,1534.08,2022,6,Middle,Rural,2011,true,338.15
+H02255,North America,Canada,Geothermal,1699.97,2023,3,Middle,Rural,2016,false,88.34
+H03913,Europe,Italy,Biomass,98.27,2020,2,Middle,Urban,2020,true,75.23
+H02891,Australia,New Zealand,Geothermal,1289.53,2023,4,Middle,Urban,2022,true,361.94
+H03674,Africa,Egypt,Geothermal,1218.29,2022,1,Middle,Rural,2010,true,242.82
+H00081,North America,USA,Wind,198.77,2023,7,Middle,Rural,2018,true,118.94
+H01618,South America,Colombia,Solar,885.08,2021,1,Middle,Urban,2014,true,63.75
+H01655,Europe,France,Hydro,118.56,2024,4,Middle,Urban,2019,true,139.14
+H01398,North America,USA,Hydro,242.15,2020,4,Middle,Rural,2011,false,350.19
+H04687,Africa,South Africa,Geothermal,136.21,2020,1,Middle,Rural,2020,true,177.05
+H01293,South America,Chile,Geothermal,140.42,2024,8,Middle,Rural,2010,false,399.30
+H02165,North America,Canada,Geothermal,1445.76,2024,3,Middle,Urban,2013,false,271.94
+H00813,South America,Argentina,Wind,1013.30,2023,1,Middle,Urban,2017,false,352.73
+H03317,South America,Argentina,Hydro,1068.80,2024,7,Middle,Rural,2013,false,264.60
+H02560,Africa,Egypt,Wind,828.79,2020,2,Middle,Rural,2014,true,33.88
+H03575,South America,Peru,Wind,210.48,2020,2,Middle,Rural,2017,false,35.71
+H04652,Australia,New Zealand,Geothermal,726.64,2022,6,Middle,Urban,2020,false,62.86
+H02673,South America,Colombia,Geothermal,1768.88,2023,7,Middle,Urban,2011,true,32.96
+H00562,South America,Argentina,Wind,558.72,2021,5,Middle,Rural,2011,false,173.76
+H02818,South America,Peru,Wind,1450.64,2024,6,Middle,Rural,2011,false,160.64
+H02759,Europe,Italy,Wind,836.66,2024,1,Middle,Rural,2017,true,286.61
+H01757,South America,Peru,Geothermal,323.59,2021,4,Middle,Rural,2017,true,61.39
+H00220,South America,Colombia,Geothermal,1311.58,2024,3,Middle,Rural,2021,false,42.34
+H04140,Africa,Kenya,Solar,629.22,2020,7,Middle,Urban,2020,false,29.12
+H03958,Australia,New Zealand,Wind,1542.70,2021,3,Middle,Rural,2010,false,111.16
+H03971,North America,Canada,Hydro,1184.38,2023,6,Middle,Rural,2011,true,246.70
+H00044,Australia,Australia,Biomass,1040.36,2024,2,Middle,Rural,2015,true,273.16
+H03002,Australia,New Zealand,Wind,379.19,2022,2,Middle,Urban,2010,true,324.98
+H00678,Australia,New Zealand,Hydro,1617.92,2022,3,Middle,Rural,2016,true,172.50
+H00578,Africa,Kenya,Biomass,483.67,2020,1,Middle,Urban,2019,true,119.46
+H00545,North America,USA,Hydro,1396.66,2020,8,Middle,Urban,2013,false,154.73
+H00368,Europe,Spain,Geothermal,431.60,2023,8,Middle,Rural,2010,true,201.47
+H01613,Africa,Ghana,Solar,948.96,2023,6,Middle,Rural,2013,true,277.53
+H03717,South America,Peru,Geothermal,1526.44,2021,1,Middle,Urban,2011,false,95.78
+H00048,Africa,South Africa,Wind,1702.26,2024,5,Middle,Rural,2024,true,350.31
+H01535,Asia,Indonesia,Solar,1467.85,2024,2,Middle,Urban,2020,true,48.25
+H02520,North America,Mexico,Solar,1494.16,2024,8,Middle,Urban,2018,true,169.06
+H01973,North America,USA,Hydro,1704.68,2022,8,Middle,Urban,2019,false,174.25
+H01109,South America,Argentina,Wind,1214.24,2020,2,Middle,Rural,2020,false,390.06
+H00096,North America,Canada,Geothermal,979.24,2021,6,Middle,Urban,2012,false,8.34
+H01102,North America,Canada,Solar,725.63,2021,7,Middle,Urban,2012,false,154.71
+H04255,South America,Chile,Biomass,1525.14,2024,2,Middle,Urban,2011,true,321.84
+H04926,North America,Canada,Biomass,1049.06,2020,6,Middle,Rural,2012,true,381.25
+H01150,Asia,China,Solar,814.70,2024,1,Middle,Rural,2011,false,389.38
+H03750,Australia,Australia,Solar,1207.25,2023,7,Middle,Urban,2011,true,42.83
+H02933,Asia,Japan,Solar,1765.03,2021,3,Middle,Urban,2013,false,305.22
+H04535,Asia,South Korea,Hydro,712.67,2021,1,Middle,Urban,2021,false,149.85
+H04173,Africa,Egypt,Biomass,1117.01,2020,8,Middle,Rural,2010,true,362.63
+H04006,Africa,South Africa,Hydro,1324.52,2022,4,Middle,Rural,2011,false,149.75
+H00587,Asia,South Korea,Solar,355.00,2021,3,Middle,Rural,2019,false,88.77
+H02299,South America,Brazil,Hydro,897.47,2020,7,Middle,Rural,2020,false,241.11
+H00585,Australia,Australia,Wind,1285.68,2021,5,Middle,Rural,2012,true,114.92
+H02424,North America,Mexico,Hydro,1284.05,2021,8,Middle,Rural,2015,false,99.16
+H01392,Europe,Italy,Biomass,704.69,2024,1,Middle,Urban,2018,true,364.00
+H04526,Australia,Australia,Solar,582.56,2024,6,Middle,Urban,2018,true,359.13
+H04921,Europe,Italy,Wind,1760.69,2020,3,Middle,Rural,2017,false,204.54
+H04801,North America,USA,Wind,409.67,2024,1,Middle,Rural,2022,true,186.69
+H04282,Africa,Egypt,Solar,1709.20,2023,3,Middle,Rural,2010,true,151.13
+H03339,Africa,Egypt,Solar,1446.52,2020,8,Middle,Rural,2016,true,159.70
+H02112,Africa,Nigeria,Wind,1618.36,2020,7,Middle,Urban,2013,true,331.59
+H04863,Europe,Italy,Hydro,1509.44,2021,3,Middle,Rural,2010,false,107.20
+H01868,North America,Canada,Hydro,1635.30,2020,1,Middle,Rural,2010,false,16.48
+H04881,Africa,Kenya,Geothermal,189.26,2022,2,Middle,Rural,2018,false,75.25
+H03902,Europe,Italy,Geothermal,1321.54,2023,5,Middle,Rural,2013,false,168.63
+H01096,Australia,Australia,Hydro,1068.91,2024,6,Middle,Urban,2010,true,321.30
+H01426,Australia,New Zealand,Geothermal,1345.06,2022,1,Middle,Rural,2010,true,217.10
+H03067,North America,Canada,Wind,500.51,2020,6,Middle,Urban,2020,true,91.11
+H04520,Africa,Nigeria,Biomass,1624.54,2024,3,Middle,Rural,2012,true,340.34
+H00808,South America,Peru,Geothermal,89.14,2020,3,Middle,Urban,2017,true,88.73
+H04744,Europe,UK,Solar,405.12,2023,4,Middle,Rural,2021,false,344.67
+H02318,South America,Chile,Wind,1353.28,2020,6,Middle,Urban,2018,false,26.00
+H04742,North America,Canada,Wind,511.93,2021,2,Middle,Urban,2013,true,230.62
+H01026,Africa,South Africa,Biomass,852.72,2020,4,Middle,Urban,2011,false,383.59
+H00882,Europe,UK,Hydro,267.26,2024,8,Middle,Urban,2015,true,114.82
+H04300,Australia,Australia,Biomass,886.81,2020,3,Middle,Urban,2012,false,221.98
+H03671,South America,Argentina,Solar,1231.46,2021,7,Middle,Urban,2021,false,86.51
+H04969,North America,Mexico,Wind,467.11,2023,5,Middle,Rural,2013,true,286.42
+H01457,Africa,Kenya,Wind,1227.01,2022,2,Middle,Urban,2021,true,175.07
+H00747,Africa,Egypt,Wind,1305.19,2023,1,Middle,Urban,2021,false,373.52
+H00018,Asia,India,Wind,1660.40,2024,3,Middle,Urban,2016,true,297.98
+H01201,Asia,Indonesia,Wind,1100.12,2020,3,Middle,Rural,2014,true,75.99
+H01700,North America,Mexico,Solar,952.87,2020,3,Middle,Urban,2017,true,394.81
+H03227,Asia,Japan,Wind,802.51,2023,2,Middle,Urban,2011,true,253.02
+H01506,Europe,Italy,Wind,1018.73,2022,4,Middle,Urban,2021,false,142.90
+H00811,Africa,Kenya,Wind,1049.52,2021,8,Middle,Urban,2014,false,393.69
+H01095,Australia,New Zealand,Hydro,1165.61,2020,8,Middle,Rural,2020,true,341.10
+H04325,South America,Argentina,Solar,1422.13,2020,3,Middle,Rural,2017,false,167.78
+H03677,Africa,Ghana,Wind,1628.39,2023,4,Middle,Urban,2015,true,366.02
+H02750,Australia,New Zealand,Geothermal,621.26,2020,8,Middle,Urban,2012,false,286.33
+H03709,Europe,Italy,Wind,1095.95,2022,2,Middle,Urban,2020,false,354.90
+H03019,Australia,New Zealand,Solar,1514.71,2024,6,Middle,Urban,2023,true,65.18
+H04253,Africa,Ghana,Wind,103.78,2024,5,Middle,Urban,2021,false,225.71
+H00804,Africa,Ghana,Biomass,437.58,2024,1,Middle,Urban,2020,false,374.08
+H04645,South America,Peru,Wind,1359.68,2020,8,Middle,Urban,2013,true,10.90
+H02532,Asia,South Korea,Geothermal,933.08,2020,6,Middle,Rural,2019,false,24.28
+H00622,Europe,Spain,Solar,1114.57,2024,5,Middle,Rural,2011,false,368.38
+H02298,North America,USA,Wind,1147.67,2023,5,Middle,Rural,2010,true,324.64
+H03829,Asia,South Korea,Wind,751.50,2024,1,Middle,Rural,2015,true,124.18
+H03652,Australia,Australia,Biomass,1320.92,2020,1,Middle,Rural,2013,true,153.80
+H02689,Asia,Japan,Solar,1335.31,2024,6,Middle,Rural,2022,false,88.19
+H00535,Africa,Egypt,Geothermal,859.56,2022,6,Middle,Urban,2017,false,153.61
+H03858,Australia,New Zealand,Geothermal,1267.31,2020,6,Middle,Rural,2018,false,323.82
+H01116,Europe,Germany,Biomass,1729.50,2022,1,Middle,Rural,2013,false,384.54
+H00766,Asia,South Korea,Wind,1615.76,2020,1,Middle,Rural,2014,true,44.94
+H01946,Australia,New Zealand,Solar,1447.33,2020,6,Middle,Rural,2014,false,214.03
+H03003,South America,Peru,Geothermal,1167.40,2023,6,Middle,Rural,2021,true,160.95
+H03096,Asia,Japan,Wind,987.83,2021,7,Middle,Urban,2016,false,44.77
+H00645,South America,Peru,Solar,370.38,2020,1,Middle,Urban,2015,true,39.02
+H03746,Europe,Spain,Wind,792.95,2022,1,Middle,Rural,2010,false,11.66
+H04094,Europe,Germany,Wind,1766.86,2020,7,Middle,Urban,2010,false,225.26
+H00121,Europe,France,Hydro,1147.56,2024,7,Middle,Rural,2017,false,353.39
+H04889,Asia,India,Wind,1608.25,2024,1,Middle,Urban,2021,true,312.12
+H04335,Africa,South Africa,Hydro,1626.46,2021,1,Middle,Rural,2013,false,203.16
+H01955,North America,USA,Hydro,1438.20,2022,4,Middle,Urban,2010,false,193.02
+H02464,North America,Mexico,Biomass,1437.05,2020,5,Middle,Rural,2016,false,374.67
+H01393,North America,USA,Biomass,341.45,2022,3,Middle,Urban,2014,true,387.25
+H03138,South America,Peru,Biomass,1646.88,2022,8,Middle,Urban,2020,false,291.71
+H04774,Asia,Indonesia,Geothermal,647.54,2022,7,Middle,Urban,2020,false,284.75
+H03527,Europe,Germany,Hydro,410.98,2023,5,Middle,Urban,2022,true,229.49
+H03693,Africa,Egypt,Hydro,841.44,2021,8,Middle,Urban,2020,false,395.40
+H03186,Australia,Australia,Hydro,1023.14,2024,2,Middle,Rural,2012,true,226.47
+H04770,Europe,Italy,Hydro,1354.26,2024,4,Middle,Urban,2024,false,87.02
+H02711,Europe,Italy,Geothermal,183.62,2022,7,Middle,Urban,2022,true,141.06
+H02655,Australia,New Zealand,Wind,664.80,2022,3,Middle,Rural,2016,true,22.38
+H00603,Australia,New Zealand,Biomass,882.59,2023,6,Middle,Rural,2021,true,83.22
+H04846,Australia,Australia,Hydro,220.42,2024,4,Middle,Urban,2023,false,14.57
+H04842,Australia,Australia,Geothermal,1645.81,2023,6,Middle,Urban,2010,true,274.74
+H00275,Asia,Japan,Solar,413.70,2020,2,Middle,Rural,2017,true,165.59
+H04054,Africa,Ghana,Geothermal,1101.72,2021,2,Middle,Rural,2010,false,45.31
+H04893,Africa,Egypt,Geothermal,1000.55,2023,2,Middle,Rural,2014,false,369.65
+H00897,Asia,Indonesia,Solar,1125.74,2023,3,Middle,Rural,2023,true,93.30
+H00528,North America,Mexico,Solar,1217.44,2023,6,Middle,Rural,2013,true,317.06
+H03440,Asia,Indonesia,Geothermal,743.84,2020,2,Middle,Rural,2012,true,269.96
+H04827,Africa,Ghana,Wind,875.23,2023,7,Middle,Rural,2019,false,32.97
+H03923,Europe,France,Geothermal,1664.80,2023,5,Middle,Urban,2020,true,90.72
+H02120,South America,Argentina,Wind,582.61,2023,3,Middle,Rural,2022,true,333.94
+H03255,Asia,South Korea,Biomass,1231.92,2024,2,Middle,Urban,2014,true,276.50
+H02017,Australia,New Zealand,Hydro,1243.83,2022,3,Low,Rural,2019,false,193.99
+H00627,Europe,France,Biomass,1086.45,2024,2,Low,Rural,2012,false,25.31
+H02218,South America,Chile,Wind,739.04,2023,3,Low,Urban,2018,true,201.74
+H01740,Australia,Australia,Hydro,542.87,2020,8,Low,Urban,2012,true,66.35
+H02585,Europe,France,Wind,1156.52,2021,6,Low,Rural,2010,true,72.55
+H00150,Europe,France,Geothermal,986.52,2022,8,Low,Urban,2021,false,107.16
+H03249,Africa,South Africa,Geothermal,818.14,2024,4,Low,Rural,2016,false,198.67
+H02728,Europe,Italy,Hydro,1058.34,2020,2,Low,Urban,2015,false,16.98
+H03687,Europe,UK,Wind,1349.69,2021,2,Low,Urban,2020,false,157.27
+H01635,Australia,New Zealand,Wind,479.58,2021,7,Low,Rural,2020,true,329.50
+H01211,North America,Canada,Hydro,208.93,2023,4,Low,Urban,2023,false,169.59
+H00554,North America,USA,Solar,1182.45,2020,3,Low,Urban,2014,true,50.22
+H02963,Asia,Japan,Wind,1175.93,2020,4,Low,Rural,2015,false,313.71
+H02330,Africa,Egypt,Hydro,1468.32,2024,2,Low,Rural,2017,true,201.73
+H02196,Africa,Ghana,Wind,732.69,2021,3,Low,Rural,2012,true,339.30
+H00133,Europe,France,Geothermal,1363.24,2023,1,Low,Urban,2021,false,306.87
+H00288,Europe,France,Hydro,750.20,2022,1,Low,Urban,2010,true,304.61
+H01870,North America,Canada,Geothermal,700.87,2021,1,Low,Rural,2018,false,114.23
+H03115,Australia,New Zealand,Biomass,1421.93,2024,1,Low,Urban,2010,true,8.81
+H01619,Europe,UK,Wind,1301.26,2021,8,Low,Rural,2019,false,199.82
+H04803,North America,Canada,Wind,1396.26,2023,4,Low,Urban,2018,false,31.75
+H03536,Asia,India,Biomass,1302.91,2021,8,Low,Rural,2017,false,283.33
+H03912,Europe,Spain,Wind,1541.75,2022,2,Low,Urban,2019,false,211.02
+H02108,Europe,Italy,Solar,373.84,2023,3,Low,Rural,2020,true,291.17
+H00417,Africa,South Africa,Solar,1647.07,2023,5,Low,Rural,2021,false,165.19
+H00978,Asia,China,Wind,729.08,2022,1,Low,Rural,2014,false,242.22
+H00415,Asia,Japan,Solar,1071.03,2023,5,Low,Urban,2018,true,123.35
+H00486,Europe,France,Wind,848.02,2023,4,Low,Rural,2011,false,327.57
+H01198,Australia,Australia,Geothermal,1145.30,2024,5,Low,Urban,2019,true,158.58
+H04059,Europe,UK,Hydro,1357.07,2024,4,Low,Urban,2010,false,63.54
+H04759,South America,Colombia,Hydro,1270.37,2024,6,Low,Rural,2011,true,183.04
+H04828,Asia,Indonesia,Wind,676.63,2023,3,Low,Rural,2023,false,250.82
+H01188,North America,Canada,Wind,116.11,2024,2,Low,Rural,2017,false,308.20
+H00423,South America,Brazil,Solar,128.93,2020,7,Low,Urban,2014,true,234.73
+H00091,Australia,New Zealand,Solar,443.05,2022,1,Low,Urban,2011,false,9.00
+H00684,Europe,Italy,Hydro,1070.19,2021,8,Low,Rural,2015,true,73.63
+H03946,Africa,Nigeria,Hydro,1014.37,2022,8,Low,Rural,2018,true,160.36
+H02032,Europe,Germany,Biomass,127.15,2021,7,Low,Urban,2015,false,323.72
+H00316,North America,Canada,Hydro,517.74,2021,7,Low,Rural,2018,false,93.54
+H01243,Europe,UK,Wind,570.09,2022,3,Low,Urban,2018,false,76.24
+H03117,Australia,New Zealand,Solar,766.58,2023,7,Low,Urban,2015,false,336.13
+H01651,North America,Mexico,Biomass,209.51,2020,2,Low,Urban,2012,false,273.74
+H04002,Australia,Australia,Geothermal,501.03,2022,3,Low,Urban,2014,false,195.28
+H02883,North America,Mexico,Geothermal,214.32,2020,5,Low,Urban,2012,true,20.91
+H04996,Africa,Ghana,Wind,436.48,2021,2,Low,Urban,2010,false,219.92
+H02837,Asia,India,Hydro,1008.94,2020,7,Low,Rural,2018,false,341.73
+H00600,Africa,Kenya,Wind,204.62,2022,5,Low,Rural,2010,false,33.86
+H04997,North America,Canada,Hydro,715.69,2024,2,Low,Urban,2024,true,296.86
+H00722,Africa,South Africa,Geothermal,975.74,2021,2,Low,Rural,2016,true,188.10
+H04411,South America,Colombia,Biomass,1590.11,2022,2,Low,Urban,2011,true,307.62
+H00178,Australia,Australia,Wind,172.76,2023,3,Low,Rural,2022,false,193.31
+H01724,Asia,Indonesia,Hydro,195.34,2024,2,Low,Rural,2021,false,256.38
+H02329,Australia,New Zealand,Biomass,168.22,2021,4,Low,Urban,2016,false,153.46
+H04614,Africa,Egypt,Wind,536.84,2024,6,Low,Urban,2014,true,87.75
+H00094,Australia,New Zealand,Solar,917.81,2020,6,Low,Urban,2015,true,148.09
+H03383,Europe,UK,Biomass,1251.25,2021,6,Low,Rural,2011,true,142.45
+H02940,North America,Mexico,Hydro,948.24,2021,1,Low,Urban,2012,false,259.44
+H00890,Europe,Italy,Solar,586.74,2020,1,Low,Rural,2015,false,240.89
+H02681,Europe,Italy,Geothermal,1130.24,2020,1,Low,Rural,2014,false,311.60
+H01589,Europe,Italy,Geothermal,717.82,2023,2,Low,Urban,2012,true,17.11
+H03348,North America,Canada,Biomass,1213.95,2023,4,Low,Urban,2017,false,125.85
+H01434,South America,Peru,Geothermal,1161.29,2023,7,Low,Urban,2016,true,233.78
+H00950,Asia,Japan,Solar,1152.81,2020,7,Low,Urban,2010,true,198.48
+H02844,Asia,South Korea,Biomass,484.44,2021,3,Low,Urban,2014,false,177.98
+H03551,Asia,Japan,Wind,1142.79,2021,3,Low,Urban,2020,true,110.75
+H00136,South America,Peru,Solar,639.76,2023,3,Low,Urban,2015,true,205.87
+H01361,Asia,Indonesia,Hydro,1463.02,2021,1,Low,Rural,2016,true,62.17
+H02005,Asia,Japan,Geothermal,356.30,2024,8,Low,Rural,2016,false,250.52
+H03796,South America,Chile,Biomass,508.44,2023,7,Low,Urban,2020,true,108.98
+H02406,Europe,UK,Solar,1229.00,2022,6,Low,Urban,2017,true,156.02
+H04360,Asia,China,Wind,1527.59,2024,4,Low,Rural,2023,false,228.76
+H03708,Australia,Australia,Wind,837.07,2022,5,Low,Urban,2012,true,106.98
+H02747,South America,Argentina,Wind,839.30,2024,8,Low,Rural,2019,false,255.00
+H02171,Europe,Spain,Hydro,1480.62,2022,3,Low,Rural,2017,false,91.43
+H03538,North America,Canada,Solar,602.45,2021,5,Low,Rural,2021,false,35.15
+H03618,Europe,Spain,Solar,565.07,2020,8,Low,Rural,2018,true,185.51
+H00292,Europe,UK,Biomass,979.92,2022,8,Low,Urban,2021,false,273.01
+H03587,Europe,Italy,Solar,1502.70,2022,1,Low,Rural,2017,true,151.20
+H03608,South America,Colombia,Wind,197.93,2020,4,Low,Rural,2014,true,240.77
+H04811,North America,USA,Biomass,649.54,2024,3,Low,Urban,2011,true,163.34
+H03257,Europe,Spain,Hydro,1168.86,2022,2,Low,Urban,2021,true,127.72
+H03989,Asia,India,Biomass,551.82,2020,6,Low,Rural,2015,false,266.30
+H03241,Australia,New Zealand,Geothermal,770.42,2020,2,Low,Rural,2013,false,318.63
+H02615,South America,Brazil,Biomass,1164.94,2020,1,Low,Rural,2015,false,104.44
+H04886,Asia,India,Wind,1584.61,2020,3,Low,Rural,2020,true,52.12
+H03847,South America,Colombia,Biomass,945.04,2024,1,Low,Urban,2010,false,333.06
+H00071,Australia,New Zealand,Hydro,136.28,2022,7,Low,Urban,2020,false,86.31
+H01127,Europe,France,Solar,682.85,2024,5,Low,Rural,2018,true,15.47
+H04546,South America,Colombia,Solar,426.64,2022,1,Low,Rural,2010,true,306.71
+H01213,Asia,South Korea,Hydro,620.54,2023,6,Low,Rural,2022,false,298.50
+H03922,North America,Mexico,Biomass,1198.86,2022,4,Low,Rural,2017,false,45.20
+H02101,South America,Peru,Solar,941.61,2023,7,Low,Urban,2019,false,222.89
+H01363,Africa,Egypt,Solar,142.02,2021,6,Low,Urban,2011,true,96.37
+H03110,Europe,UK,Hydro,888.44,2024,4,Low,Urban,2012,true,10.47
+H02111,North America,Mexico,Biomass,464.75,2020,4,Low,Urban,2013,false,93.30
+H01042,North America,Canada,Solar,991.36,2023,5,Low,Urban,2017,true,60.61
+H01877,South America,Argentina,Wind,1095.71,2023,5,Low,Urban,2019,true,175.06
+H04511,North America,Mexico,Hydro,1497.00,2023,3,Low,Rural,2013,false,97.39
+H02797,South America,Peru,Wind,55.81,2021,8,Low,Rural,2017,false,169.02
+H04292,North America,USA,Solar,199.60,2023,3,Low,Rural,2017,true,325.33
+H04567,North America,USA,Solar,329.14,2022,2,Low,Urban,2011,false,200.98
+H01663,North America,Mexico,Biomass,782.88,2022,1,Low,Rural,2016,true,98.91
+H04247,Europe,Spain,Biomass,1055.24,2024,1,Low,Rural,2013,false,296.03
+H02174,Europe,Italy,Geothermal,398.40,2023,4,Low,Urban,2021,true,15.82
+H01413,Australia,Australia,Wind,377.73,2024,7,Low,Urban,2015,false,231.91
+H01966,North America,USA,Geothermal,726.11,2024,2,Low,Urban,2021,true,224.30
+H00372,Australia,New Zealand,Hydro,1249.14,2023,6,Low,Urban,2013,true,50.65
+H00239,Europe,UK,Wind,1359.42,2024,7,Low,Rural,2013,true,230.38
+H03401,North America,Mexico,Solar,1020.15,2022,1,Low,Urban,2017,false,47.15
+H02068,South America,Peru,Geothermal,1146.41,2024,3,Low,Urban,2021,false,182.04
+H04761,Asia,India,Geothermal,1633.09,2022,6,Low,Urban,2022,true,126.41
+H02296,North America,Mexico,Biomass,1079.28,2022,8,Low,Rural,2015,false,105.36
+H03706,Australia,New Zealand,Wind,107.05,2024,1,Low,Rural,2019,false,262.35
+H00752,South America,Peru,Solar,1515.16,2023,5,Low,Rural,2017,false,321.10
+H00567,Africa,Kenya,Geothermal,1130.11,2024,3,Low,Urban,2023,true,82.54
+H00052,Europe,Spain,Hydro,975.92,2023,6,Low,Urban,2015,false,85.30
+H01045,North America,Canada,Solar,1062.48,2022,1,Low,Urban,2013,false,64.48
+H02182,South America,Argentina,Hydro,432.31,2024,8,Low,Rural,2022,true,339.54
+H00444,Africa,Kenya,Hydro,1620.04,2023,1,Low,Urban,2012,true,283.21
+H03605,South America,Brazil,Wind,319.28,2024,3,Low,Rural,2023,true,120.85
+H04201,South America,Argentina,Solar,73.37,2023,7,Low,Rural,2019,false,46.58
+H02923,Africa,Ghana,Biomass,1599.58,2021,2,Low,Rural,2018,false,165.07
+H04692,Africa,Egypt,Hydro,1377.15,2024,2,Low,Rural,2019,true,41.80
+H02461,Australia,New Zealand,Biomass,219.68,2024,1,Low,Urban,2010,false,198.07
+H00185,North America,Mexico,Geothermal,998.39,2021,5,Low,Urban,2010,false,95.07
+H02277,Asia,South Korea,Geothermal,772.10,2021,3,Low,Rural,2018,true,35.65
+H04055,Australia,Australia,Hydro,1210.34,2024,8,Low,Rural,2012,false,19.29
+H02670,Africa,Kenya,Solar,902.48,2024,2,Low,Rural,2017,false,130.45
+H03560,North America,Canada,Biomass,1139.01,2021,8,Low,Urban,2016,true,12.31
+H04012,Africa,South Africa,Solar,1630.05,2021,1,Low,Rural,2014,true,234.18
+H04260,Europe,France,Solar,127.52,2021,2,Low,Rural,2016,true,27.94
+H00568,Africa,Kenya,Hydro,870.44,2024,6,Low,Rural,2015,true,170.26
+H03956,Asia,Indonesia,Wind,535.32,2024,5,Low,Urban,2017,false,89.41
+H03839,Europe,France,Geothermal,1027.44,2022,4,Low,Urban,2016,false,75.43
+H02861,Africa,Nigeria,Hydro,1644.46,2021,7,Low,Rural,2013,false,232.02
+H00777,Asia,China,Hydro,756.20,2023,7,Low,Urban,2012,false,234.44
+H04878,Australia,New Zealand,Solar,975.34,2024,8,Low,Rural,2024,true,154.60
+H03823,Europe,Spain,Geothermal,62.74,2024,5,Low,Rural,2024,true,185.01
+H01245,Australia,New Zealand,Wind,390.27,2024,5,Low,Rural,2013,false,208.61
+H00550,Europe,Germany,Solar,352.11,2023,8,Low,Urban,2023,false,49.64
+H03642,North America,Mexico,Hydro,337.17,2024,1,Low,Urban,2020,true,102.08
+H02348,Africa,Nigeria,Hydro,1463.53,2024,8,Low,Urban,2011,true,43.08
+H04999,Europe,UK,Geothermal,902.91,2024,2,Low,Urban,2011,false,216.45
+H01261,Asia,China,Geothermal,1409.73,2021,5,Low,Rural,2016,false,197.82
+H01559,South America,Brazil,Wind,1297.76,2020,2,Low,Urban,2013,false,312.38
+H00757,South America,Chile,Biomass,1168.19,2020,8,Low,Urban,2013,true,83.20
+H03526,Australia,Australia,Wind,1638.40,2020,8,High,Urban,2020,true,103.67
+H01486,North America,USA,Geothermal,1750.72,2020,7,High,Rural,2020,true,400.48
+H02481,Africa,Nigeria,Hydro,1059.37,2021,3,High,Urban,2016,false,129.82
+H01262,South America,Brazil,Biomass,1321.93,2020,5,High,Rural,2013,true,412.33
+H04918,Asia,India,Wind,827.55,2020,2,High,Urban,2019,false,308.69
+H00013,North America,Canada,Biomass,1367.85,2022,2,High,Rural,2010,false,315.86
+H01492,South America,Brazil,Wind,1200.43,2023,5,High,Urban,2014,true,79.70
+H04606,Africa,South Africa,Geothermal,133.74,2023,6,High,Urban,2021,true,288.08
+H04596,North America,Mexico,Hydro,181.18,2020,3,High,Urban,2019,false,166.36
+H00732,Asia,South Korea,Geothermal,321.61,2020,2,High,Urban,2016,true,196.46
+H01232,North America,Canada,Geothermal,703.85,2023,2,High,Urban,2021,false,82.58
+H01935,Europe,UK,Hydro,1261.08,2021,4,High,Rural,2010,false,121.94
+H00492,Australia,Australia,Biomass,573.46,2023,5,High,Urban,2017,true,260.15
+H00658,Africa,Ghana,Hydro,627.30,2023,4,High,Rural,2023,false,160.74
+H02375,Australia,Australia,Hydro,458.58,2023,2,High,Urban,2021,true,43.81
+H01406,North America,USA,Solar,1577.30,2023,3,High,Rural,2013,true,235.22
+H02877,South America,Chile,Wind,290.25,2020,1,High,Rural,2012,true,119.75
+H04924,Europe,Spain,Hydro,812.42,2022,6,High,Urban,2016,true,30.71
+H01804,Australia,New Zealand,Hydro,186.19,2022,4,High,Rural,2019,true,384.78
+H03045,South America,Chile,Biomass,1388.48,2020,1,High,Urban,2015,false,50.77
+H02418,South America,Brazil,Wind,1342.48,2023,8,High,Urban,2019,false,222.06
+H04256,Australia,Australia,Biomass,588.82,2020,6,High,Urban,2017,false,349.57
+H03942,Australia,Australia,Solar,1296.88,2024,7,High,Rural,2012,false,359.69
+H00806,South America,Argentina,Biomass,568.19,2021,1,High,Rural,2010,true,144.25
+H01294,North America,Canada,Solar,1287.36,2024,6,High,Urban,2016,false,403.98
+H03505,Africa,Egypt,Solar,226.04,2022,6,High,Rural,2021,true,147.47
+H03655,Europe,UK,Geothermal,1387.96,2021,2,High,Urban,2014,false,211.56
+H03007,Europe,France,Solar,1267.94,2023,7,High,Urban,2010,false,326.63
+H03037,North America,USA,Wind,1208.34,2021,7,High,Rural,2018,true,78.47
+H00253,Europe,Spain,Geothermal,705.77,2024,8,High,Urban,2014,true,169.46
+H01962,South America,Chile,Geothermal,376.34,2020,5,High,Rural,2017,false,222.96
+H03730,Africa,Nigeria,Hydro,965.81,2021,7,High,Urban,2017,true,233.87
+H00027,South America,Colombia,Wind,1806.34,2021,7,High,Urban,2014,true,151.76
+H04464,Australia,New Zealand,Solar,1727.14,2020,8,High,Rural,2019,false,163.22
+H03524,Asia,China,Hydro,1441.36,2024,8,High,Urban,2012,true,291.40
+H01542,Asia,Indonesia,Wind,1233.61,2024,7,High,Rural,2024,false,319.02
+H02233,South America,Argentina,Solar,181.21,2023,5,High,Urban,2023,false,179.23
+H04121,North America,USA,Solar,1880.11,2021,7,High,Rural,2011,true,164.71
+H00255,Australia,Australia,Geothermal,803.87,2020,5,High,Urban,2012,false,304.38
+H03801,South America,Brazil,Wind,1061.94,2024,8,High,Rural,2024,false,42.28
+H04311,Europe,France,Biomass,1872.30,2021,5,High,Urban,2020,false,342.46
+H02293,Europe,Spain,Biomass,81.42,2022,4,High,Urban,2014,true,161.70
+H01324,Africa,Nigeria,Wind,1876.36,2020,1,High,Urban,2019,false,359.29
+H01551,South America,Colombia,Hydro,91.34,2022,3,High,Rural,2010,true,248.39
+H04626,Africa,Ghana,Biomass,1746.78,2024,5,High,Rural,2017,true,330.35
+H00860,Europe,Italy,Biomass,1258.82,2021,8,High,Rural,2016,false,148.83
+H03861,Asia,Indonesia,Solar,956.37,2023,3,High,Urban,2017,true,219.74
+H02606,Africa,South Africa,Geothermal,407.91,2023,8,High,Urban,2011,false,153.97
+H01176,Australia,Australia,Geothermal,468.14,2023,2,High,Urban,2020,false,26.10
+H03198,North America,Mexico,Hydro,1739.32,2021,3,High,Urban,2013,true,107.27
+H01352,Europe,UK,Biomass,683.20,2023,8,High,Rural,2022,true,55.22
+H00110,Africa,Kenya,Geothermal,1724.11,2024,7,High,Rural,2012,true,28.09
+H02373,North America,Canada,Geothermal,551.12,2023,5,High,Rural,2015,true,250.75
+H02147,South America,Argentina,Wind,1824.69,2021,3,High,Urban,2011,true,400.27
+H01435,Africa,Nigeria,Hydro,110.31,2021,3,High,Rural,2019,true,99.28
+H00539,Africa,Kenya,Wind,1736.06,2020,7,High,Rural,2010,false,174.76
+H01873,Africa,South Africa,Hydro,1722.73,2021,6,High,Rural,2017,false,162.63
+H02846,Africa,Ghana,Solar,1047.62,2020,7,High,Urban,2011,true,46.26
+H02562,Africa,Nigeria,Wind,93.35,2023,3,High,Rural,2014,true,277.64
+H00222,North America,Mexico,Hydro,789.57,2024,8,High,Urban,2020,true,63.37
+H02610,Africa,Kenya,Solar,1016.47,2023,3,High,Rural,2023,true,377.92
+H04416,Europe,France,Hydro,380.34,2021,5,High,Urban,2018,false,162.49
+H03669,Africa,South Africa,Hydro,862.11,2024,2,High,Rural,2023,true,271.74
+H01259,Australia,Australia,Biomass,224.85,2021,3,High,Rural,2020,false,247.63
+H01452,Africa,Nigeria,Geothermal,170.95,2020,4,High,Urban,2010,false,444.34
+H04812,Europe,Italy,Geothermal,223.90,2023,5,High,Urban,2015,true,74.53
+H04680,Africa,South Africa,Geothermal,291.34,2020,3,High,Rural,2011,false,375.35
+H02965,North America,USA,Hydro,1618.27,2023,5,High,Rural,2013,true,49.25
+H02779,Africa,Egypt,Wind,771.32,2024,1,High,Urban,2015,true,111.29
+H02949,Africa,South Africa,Solar,1306.75,2020,7,High,Rural,2017,false,193.02
+H00725,Asia,Japan,Geothermal,250.97,2024,5,High,Rural,2017,true,248.93
+H04708,North America,Canada,Biomass,547.42,2024,2,High,Rural,2012,false,17.17
+H00211,Asia,Japan,Hydro,818.44,2024,2,High,Urban,2011,true,401.99
+H00355,Asia,China,Hydro,135.94,2023,7,High,Rural,2011,false,441.56
+H03929,Africa,South Africa,Geothermal,956.66,2022,8,High,Urban,2014,false,369.92
+H03780,North America,Canada,Biomass,1687.52,2020,1,High,Urban,2020,true,335.74
+H04481,North America,Mexico,Wind,976.53,2022,6,High,Rural,2015,false,196.90
+H01438,Africa,South Africa,Biomass,1661.49,2022,4,High,Urban,2015,false,105.50
+H00735,South America,Colombia,Biomass,908.74,2024,5,High,Urban,2022,true,257.08
+H00997,South America,Brazil,Geothermal,1395.51,2023,8,High,Urban,2020,false,177.67
+H00062,Australia,New Zealand,Biomass,1076.71,2023,3,High,Urban,2010,true,131.56
+H00479,Australia,New Zealand,Wind,109.30,2020,8,High,Urban,2015,false,283.88
+H04113,Africa,Egypt,Geothermal,1601.42,2024,4,High,Rural,2019,true,69.06
+H00323,Africa,South Africa,Wind,589.99,2023,3,High,Urban,2023,true,277.41
+H03143,Africa,Ghana,Geothermal,152.17,2021,3,High,Urban,2011,false,35.30
+H02925,Asia,Japan,Hydro,1554.36,2023,2,High,Rural,2013,false,65.17
+H00534,Asia,Indonesia,Biomass,306.49,2022,7,High,Rural,2016,false,423.14
+H02649,Australia,New Zealand,Hydro,237.87,2020,6,High,Urban,2020,false,165.04
+H01984,Africa,Ghana,Biomass,97.47,2022,7,High,Rural,2022,true,96.72
+H01537,Asia,China,Wind,1844.22,2024,6,High,Rural,2022,false,410.10
+H03361,South America,Chile,Geothermal,764.92,2023,6,High,Rural,2015,false,365.44
+H03666,Asia,Indonesia,Wind,1534.43,2022,4,High,Rural,2022,false,279.79
+H03627,Australia,New Zealand,Geothermal,884.40,2021,1,High,Urban,2020,false,30.94
+H03221,North America,Mexico,Solar,1887.57,2020,7,High,Urban,2015,true,21.14
+H01175,Europe,France,Geothermal,282.80,2023,7,High,Urban,2023,true,174.37
+H03812,Europe,France,Geothermal,1679.34,2021,4,High,Urban,2014,false,208.80
+H03867,Africa,Ghana,Geothermal,528.80,2024,4,High,Urban,2017,true,447.51
+H03779,Asia,South Korea,Biomass,1244.80,2022,4,High,Urban,2011,true,64.98
+H02417,Australia,New Zealand,Biomass,655.14,2020,2,High,Urban,2013,true,382.93
+H04025,North America,Mexico,Hydro,1885.10,2020,2,High,Rural,2017,false,384.08
+H03251,North America,Mexico,Solar,414.48,2021,3,High,Urban,2011,false,268.29
+H03751,Asia,Japan,Wind,1452.18,2024,7,High,Rural,2021,true,352.76
+H04582,Europe,France,Solar,564.73,2022,6,High,Urban,2020,false,400.37
+H01193,Australia,Australia,Hydro,1935.22,2023,1,High,Urban,2013,false,86.13
+H04588,Europe,Italy,Hydro,1079.18,2020,3,High,Rural,2018,true,196.48
+H00625,Asia,South Korea,Solar,896.13,2020,5,High,Urban,2010,false,307.53
+H00234,Asia,China,Wind,441.58,2024,8,High,Rural,2023,true,162.56
+H00416,Australia,New Zealand,Solar,336.51,2023,3,High,Urban,2023,false,134.85
+H03254,Africa,Nigeria,Wind,1431.52,2022,3,High,Urban,2016,true,252.64
+H00597,South America,Argentina,Wind,1814.68,2021,6,High,Urban,2018,true,59.46
+H04406,Australia,Australia,Wind,1588.64,2021,8,High,Rural,2021,false,280.43
+H04720,Europe,UK,Solar,1677.09,2021,8,High,Urban,2015,true,224.96
+H01341,Asia,China,Geothermal,1019.60,2024,2,High,Rural,2015,true,274.50
+H00599,Australia,New Zealand,Geothermal,1531.15,2020,5,High,Rural,2016,false,341.76
+H03465,South America,Peru,Biomass,1608.17,2020,4,High,Urban,2015,true,285.49
+H03104,South America,Chile,Wind,143.59,2020,1,High,Urban,2015,false,22.12
+H04193,Australia,New Zealand,Wind,1690.40,2020,1,High,Rural,2018,true,171.95
+H04191,Africa,Kenya,Biomass,724.10,2022,2,High,Urban,2011,false,156.80
+H01136,Africa,Nigeria,Hydro,1314.37,2022,7,High,Rural,2012,true,324.67
+H01205,Asia,South Korea,Biomass,371.89,2020,3,High,Rural,2020,false,280.02
+H01048,North America,USA,Biomass,1546.12,2021,4,High,Urban,2021,true,52.06
+H03185,Australia,New Zealand,Solar,595.61,2024,3,High,Rural,2012,false,266.79
+H00196,Australia,Australia,Hydro,1317.90,2024,2,High,Urban,2010,false,320.33
+H03248,South America,Argentina,Geothermal,564.08,2022,3,High,Rural,2010,true,295.80
+H01433,Australia,New Zealand,Biomass,553.64,2021,3,High,Rural,2021,true,427.47
+H01050,Europe,Italy,Wind,714.51,2023,8,High,Urban,2023,true,63.33
+H04404,South America,Brazil,Geothermal,1240.85,2021,6,High,Rural,2010,false,392.61
+H02053,South America,Peru,Solar,414.43,2020,5,High,Rural,2015,false,57.75
+H04259,South America,Peru,Hydro,1753.05,2021,1,High,Urban,2017,true,96.31
+H00135,Asia,China,Biomass,950.31,2022,8,High,Urban,2019,false,257.52
+H00512,North America,USA,Biomass,1313.99,2024,4,High,Rural,2011,true,109.99
+H04730,Australia,Australia,Solar,1131.34,2022,1,High,Urban,2021,true,78.76
+H04862,Australia,Australia,Geothermal,535.68,2021,3,High,Urban,2010,true,304.45
+H02118,Australia,New Zealand,Wind,131.90,2024,5,High,Urban,2014,true,112.24
+H00252,Asia,Indonesia,Solar,857.26,2023,2,High,Rural,2014,true,70.62
+H01508,South America,Brazil,Solar,388.05,2020,4,High,Urban,2011,true,415.75
+H00123,South America,Brazil,Geothermal,518.27,2021,1,High,Urban,2014,false,22.97
+H03334,Europe,Italy,Biomass,1607.83,2023,5,High,Urban,2017,false,284.58
+H01872,Asia,Indonesia,Biomass,424.59,2024,3,High,Urban,2018,false,334.43
+H01372,Australia,Australia,Geothermal,1002.29,2023,4,High,Rural,2013,false,271.49
+H01057,Europe,Italy,Geothermal,727.69,2022,8,High,Rural,2021,true,248.90
+H00857,Australia,New Zealand,Biomass,340.52,2022,8,High,Rural,2013,true,93.67
+H00721,North America,Canada,Hydro,1209.60,2024,4,High,Urban,2015,false,96.25
+H00319,North America,Canada,Wind,257.88,2020,2,High,Rural,2018,true,447.39
+H00829,Africa,South Africa,Biomass,1121.48,2020,4,High,Urban,2016,false,139.98
+H03264,South America,Brazil,Solar,1137.25,2021,6,High,Urban,2020,true,327.45
+H02665,Europe,Germany,Wind,379.29,2021,2,High,Rural,2010,true,262.77
+H02935,Africa,Kenya,Solar,321.65,2022,8,High,Rural,2019,true,51.04
+H00606,Europe,Germany,Biomass,1621.85,2024,3,High,Urban,2014,false,263.08
+H04608,Europe,Spain,Biomass,867.37,2023,2,High,Urban,2022,true,235.67
+H00299,Asia,China,Solar,489.32,2020,3,High,Urban,2019,false,99.44
+H02537,Europe,Italy,Biomass,209.74,2021,8,High,Rural,2010,true,311.64
+H04204,Australia,Australia,Hydro,837.24,2023,1,High,Rural,2013,true,354.29
+H03726,Australia,New Zealand,Solar,701.38,2020,8,High,Rural,2010,false,14.51
+H03270,Australia,New Zealand,Hydro,287.73,2021,2,High,Rural,2019,false,24.74
+H04047,Asia,India,Biomass,1158.04,2022,1,High,Rural,2019,true,99.48
+H01011,Australia,New Zealand,Solar,259.62,2020,6,High,Rural,2016,true,281.83
+H02795,Australia,New Zealand,Biomass,75.17,2024,8,High,Rural,2011,false,113.50
+H02230,Australia,New Zealand,Wind,340.38,2020,8,High,Urban,2016,false,253.13
+H00379,North America,USA,Biomass,1242.06,2020,3,High,Urban,2017,false,397.03
+H04036,Europe,Spain,Hydro,1042.60,2021,4,High,Urban,2011,true,290.30
+H02663,Africa,Egypt,Biomass,333.20,2024,6,High,Rural,2023,true,15.45
+H04013,Australia,New Zealand,Solar,484.22,2024,3,High,Rural,2022,true,285.21
+H02958,South America,Peru,Wind,1739.27,2022,2,High,Rural,2012,true,429.35
+H01039,South America,Colombia,Geothermal,136.47,2021,8,High,Rural,2010,true,330.80
+H01345,South America,Argentina,Biomass,450.39,2022,1,High,Urban,2013,true,191.18
+H02506,Europe,Spain,Wind,672.44,2022,8,High,Urban,2010,true,105.93
+H01722,South America,Colombia,Solar,1412.02,2023,8,High,Rural,2017,true,407.56
+H00176,South America,Argentina,Biomass,311.57,2021,2,High,Rural,2016,false,449.38
+H04894,South America,Argentina,Hydro,857.17,2020,1,High,Urban,2012,false,72.85
+H00046,Australia,Australia,Solar,1610.88,2022,4,High,Urban,2019,true,17.61
+H01076,Australia,Australia,Hydro,981.23,2023,5,High,Urban,2017,false,60.44
+H03987,Africa,South Africa,Hydro,398.53,2024,7,High,Urban,2014,false,264.49
+H04919,Asia,Japan,Geothermal,822.08,2022,5,High,Rural,2015,true,204.47
+H00843,Asia,India,Geothermal,1541.15,2020,3,High,Urban,2018,true,81.58
+H01514,Asia,India,Hydro,321.45,2023,6,High,Rural,2013,false,29.18
+H02285,Europe,UK,Biomass,1066.18,2022,7,High,Urban,2021,false,86.58
+H03054,Africa,South Africa,Solar,981.21,2022,8,High,Rural,2021,false,158.03
+H04560,Australia,New Zealand,Solar,599.35,2024,2,High,Rural,2012,true,407.78
+H04362,Europe,Germany,Solar,1819.99,2024,6,High,Rural,2017,true,228.47
+H01922,Australia,New Zealand,Biomass,693.49,2023,4,High,Rural,2023,false,208.98
+H02722,South America,Colombia,Solar,1348.24,2022,6,High,Urban,2014,false,414.00
+H01676,South America,Brazil,Wind,558.10,2021,7,High,Urban,2013,true,349.65
+H04507,Europe,Spain,Wind,537.42,2020,2,High,Urban,2016,false,333.59
+H04039,Australia,New Zealand,Biomass,1396.60,2022,6,High,Urban,2022,true,413.22
+H04480,Europe,UK,Hydro,1681.55,2023,3,High,Rural,2012,false,133.64
+H01747,Australia,Australia,Biomass,1110.54,2020,4,High,Rural,2018,true,193.22
+H00020,Africa,Egypt,Wind,1707.85,2024,1,High,Rural,2015,true,335.54
+H01323,Asia,Japan,Solar,92.33,2022,2,High,Urban,2016,true,106.64
+H02522,Africa,Egypt,Hydro,706.84,2022,2,High,Rural,2022,true,45.82
+H03434,Europe,Germany,Hydro,197.82,2023,6,High,Rural,2013,true,278.50
+H02764,Asia,China,Wind,1188.32,2021,4,High,Rural,2013,false,361.13
+H02998,Asia,Japan,Solar,650.00,2024,2,High,Urban,2019,true,177.73
+H02229,Asia,Indonesia,Hydro,995.14,2022,3,High,Rural,2011,true,413.59
+H00204,Europe,Spain,Hydro,1291.65,2021,7,High,Rural,2020,true,75.73
+H04347,South America,Argentina,Solar,413.88,2023,5,High,Rural,2010,true,372.47
+H01719,Europe,France,Geothermal,1548.81,2024,4,High,Urban,2022,false,370.18
+H02499,Africa,Kenya,Biomass,1904.84,2023,8,High,Rural,2021,false,434.60
+H03733,Europe,Germany,Geothermal,862.94,2021,7,High,Rural,2020,true,19.22
+H04933,Europe,UK,Hydro,183.47,2023,4,High,Urban,2018,true,134.97
+H03287,Europe,Germany,Hydro,402.86,2023,2,High,Rural,2011,false,414.81
+H02651,Australia,New Zealand,Wind,969.24,2020,8,High,Urban,2020,false,222.39
+H02125,Asia,China,Wind,1631.88,2020,8,High,Urban,2017,false,308.71
+H00760,Africa,Nigeria,Solar,615.99,2020,3,High,Rural,2015,true,195.74
+H04441,Africa,South Africa,Solar,1695.86,2023,5,High,Rural,2020,false,183.50
+H02527,Africa,Kenya,Hydro,1257.83,2023,5,High,Urban,2010,false,378.08
+H00215,South America,Peru,Hydro,1095.55,2024,3,High,Urban,2021,false,377.31
+H03332,South America,Colombia,Biomass,467.35,2022,8,High,Rural,2010,true,204.89
+H02463,Africa,South Africa,Wind,1025.09,2021,6,High,Rural,2021,false,430.94
+H04668,Asia,South Korea,Wind,124.16,2022,5,High,Urban,2011,false,150.13
+H01331,Africa,Ghana,Hydro,578.90,2022,6,High,Rural,2019,true,105.32
+H04503,Asia,Indonesia,Solar,691.29,2021,6,High,Rural,2021,false,23.10
+H03502,South America,Colombia,Geothermal,1945.39,2020,2,High,Urban,2010,true,92.50
+H04991,South America,Brazil,Wind,386.58,2024,5,High,Rural,2020,true,381.73
+H01346,South America,Colombia,Wind,427.53,2022,5,High,Rural,2021,false,268.38
+H00069,Europe,Italy,Wind,1039.84,2024,6,High,Rural,2021,false,159.80
+H01816,Asia,Japan,Solar,360.14,2024,8,High,Rural,2011,true,391.70
+H00569,Asia,South Korea,Geothermal,832.73,2020,6,High,Rural,2011,true,305.46
+H04182,Africa,Ghana,Wind,306.93,2024,6,High,Rural,2014,true,135.38
+H04024,South America,Argentina,Hydro,1711.83,2020,2,High,Rural,2018,true,375.10
+H01607,South America,Argentina,Biomass,1418.91,2021,6,High,Rural,2019,false,311.18
+H01695,North America,Mexico,Solar,1109.11,2021,6,High,Urban,2019,false,122.67
+H02060,Europe,Spain,Geothermal,940.71,2023,7,High,Rural,2019,true,123.54
+H00464,North America,USA,Hydro,414.36,2022,6,High,Urban,2017,true,168.44
+H03815,Australia,New Zealand,Solar,860.18,2023,4,High,Urban,2022,true,425.30
+H00626,Asia,China,Hydro,1564.72,2023,2,High,Urban,2019,true,334.73
+H02985,North America,Canada,Solar,100.88,2023,5,High,Rural,2015,false,376.08
+H01570,North America,USA,Geothermal,1008.35,2020,6,High,Urban,2015,false,9.57
+H01035,Europe,Spain,Geothermal,1550.99,2021,4,High,Urban,2014,false,421.79
+H03519,South America,Argentina,Geothermal,1321.79,2023,1,High,Rural,2023,false,98.83
+H04665,Europe,France,Biomass,1063.49,2021,8,High,Urban,2017,true,222.65
+H00151,Asia,South Korea,Hydro,1756.52,2022,1,High,Rural,2016,false,235.76
+H01421,North America,Canada,Solar,1348.54,2021,2,High,Rural,2016,false,343.51
+H00458,Asia,India,Solar,1529.36,2024,3,High,Rural,2010,false,388.99
+H00240,Australia,Australia,Geothermal,1563.48,2020,3,High,Rural,2012,false,55.22
+H04682,South America,Brazil,Wind,1929.69,2022,5,High,Rural,2016,false,422.22
+H03023,North America,Canada,Geothermal,895.91,2023,3,High,Urban,2019,false,52.16
+H03149,Europe,Spain,Wind,1775.54,2020,2,High,Urban,2011,true,149.07
+H01947,South America,Peru,Geothermal,994.10,2021,8,High,Urban,2010,false,216.51
+H00193,North America,Mexico,Geothermal,94.50,2022,6,High,Rural,2014,false,425.00
+H04850,North America,USA,Solar,938.02,2020,7,High,Urban,2010,true,147.18
+H04940,South America,Brazil,Solar,1445.50,2021,7,High,Urban,2020,true,100.14
+H01269,Asia,India,Wind,1272.14,2022,5,High,Urban,2013,false,261.61
+H04425,Asia,Japan,Hydro,353.80,2022,6,High,Rural,2022,true,354.76
+H02314,North America,USA,Wind,1537.03,2020,2,High,Rural,2019,false,113.36
+H02906,Africa,South Africa,Geothermal,421.90,2023,8,Middle,Rural,2013,false,385.04
+H01871,Europe,Germany,Biomass,1626.52,2022,4,Middle,Rural,2021,true,228.07
+H01174,North America,USA,Wind,1616.38,2021,3,Middle,Urban,2020,false,147.75
+H00377,Australia,New Zealand,Solar,380.27,2023,5,Middle,Urban,2013,true,317.50
+H01159,South America,Brazil,Solar,1293.37,2021,2,Middle,Rural,2011,true,89.03
+H03820,North America,Mexico,Hydro,1650.44,2021,5,Middle,Rural,2019,true,142.15
+H03928,Asia,India,Geothermal,481.18,2023,3,Middle,Rural,2012,false,212.17
+H03260,Asia,China,Solar,676.72,2022,2,Middle,Rural,2016,true,374.38
+H01505,Europe,France,Wind,696.67,2020,6,Middle,Rural,2020,true,31.92
+H02310,Australia,Australia,Geothermal,984.70,2021,8,Middle,Rural,2021,true,39.91
+H01437,Africa,Ghana,Biomass,228.84,2023,3,Middle,Rural,2023,true,263.77
+H04589,North America,Canada,Solar,231.96,2024,8,Middle,Rural,2015,true,64.16
+H01169,Australia,Australia,Solar,1032.80,2021,3,Middle,Urban,2012,true,52.01
+H01593,North America,USA,Hydro,734.68,2021,4,Middle,Rural,2010,true,272.95
+H03166,North America,Mexico,Solar,201.38,2021,8,Middle,Urban,2017,false,212.42
+H03576,Australia,New Zealand,Wind,1330.40,2024,4,Middle,Rural,2016,true,77.98
+H04871,Australia,Australia,Biomass,1323.38,2024,8,Middle,Rural,2013,true,287.33
+H00953,Asia,Indonesia,Biomass,511.84,2022,5,Middle,Urban,2021,false,266.30
+H04943,Africa,Ghana,Biomass,1678.40,2021,5,Middle,Rural,2011,false,73.02
+H01490,South America,Chile,Solar,910.33,2023,8,Middle,Urban,2013,true,169.55
+H00719,Australia,Australia,Wind,1674.28,2023,1,Middle,Rural,2016,true,13.41
+H02703,Asia,Indonesia,Geothermal,412.50,2021,1,Middle,Rural,2020,false,369.90
+H02723,South America,Brazil,Biomass,974.74,2023,8,Middle,Urban,2011,true,331.08
+H04562,Africa,South Africa,Solar,388.70,2020,6,Middle,Urban,2017,false,399.86
+H00309,Africa,South Africa,Biomass,475.44,2024,3,Middle,Rural,2017,false,350.71
+H02079,Asia,South Korea,Wind,1243.00,2020,3,Middle,Urban,2013,false,78.80
+H03568,Europe,France,Wind,1675.97,2020,5,Middle,Rural,2014,true,167.54
+H04175,Australia,New Zealand,Biomass,1516.04,2023,1,Middle,Rural,2013,false,178.35
+H02526,North America,Mexico,Wind,987.64,2021,4,Middle,Urban,2014,true,165.59
+H03689,North America,Mexico,Solar,169.98,2023,1,Middle,Urban,2022,true,273.90
+H04786,Australia,New Zealand,Wind,809.98,2021,7,Middle,Urban,2012,false,72.41
+H02930,Australia,Australia,Solar,790.57,2021,8,Middle,Urban,2020,false,314.71
+H03086,Africa,Egypt,Wind,1684.22,2024,6,Middle,Urban,2023,false,163.54
+H01033,North America,USA,Wind,463.58,2021,8,Middle,Urban,2016,false,299.13
+H01282,Australia,Australia,Solar,1631.00,2024,5,Middle,Rural,2012,false,247.56
+H00669,Europe,Spain,Solar,901.49,2022,4,Middle,Urban,2011,false,8.82
+H04060,Europe,Spain,Biomass,1107.85,2022,4,Middle,Urban,2022,false,319.35
+H04454,Africa,Ghana,Hydro,91.12,2020,5,Middle,Rural,2012,true,212.53
+H03193,Europe,Italy,Geothermal,792.80,2022,3,Middle,Urban,2019,true,275.60
+H03376,Europe,France,Wind,93.52,2024,6,Middle,Urban,2016,false,131.97
+H00908,North America,Canada,Geothermal,148.91,2020,1,Middle,Rural,2010,true,276.67
+H04459,Asia,Japan,Geothermal,654.05,2021,2,Middle,Rural,2013,true,150.64
+H00694,North America,USA,Geothermal,1753.42,2022,7,Middle,Urban,2018,true,310.43
+H02415,South America,Brazil,Biomass,732.70,2023,4,Middle,Rural,2017,true,185.31
+H02119,South America,Chile,Biomass,73.98,2023,3,Middle,Rural,2018,true,338.29
+H03859,North America,USA,Geothermal,1418.64,2020,1,Middle,Urban,2017,false,90.53
+H03636,Africa,Egypt,Hydro,111.90,2021,7,Middle,Rural,2014,true,202.36
+H04479,Europe,Italy,Hydro,1071.47,2021,3,Middle,Urban,2021,false,74.71
+H00888,Asia,Indonesia,Wind,695.75,2023,3,Middle,Rural,2019,true,130.73
+H02168,North America,Mexico,Hydro,931.10,2022,3,Middle,Rural,2015,true,133.43
+H00097,South America,Chile,Hydro,259.75,2024,5,Middle,Urban,2012,false,115.43
+H00140,Africa,Egypt,Solar,1162.50,2024,2,Middle,Rural,2012,true,194.22
+H04955,Australia,New Zealand,Wind,297.94,2024,2,Middle,Rural,2013,true,218.23
+H02603,Africa,Ghana,Geothermal,555.02,2024,4,Middle,Rural,2021,false,210.93
+H04773,Africa,Egypt,Wind,1212.38,2022,2,Middle,Rural,2021,false,321.52
+H01630,Australia,Australia,Wind,1709.23,2021,1,Middle,Rural,2021,false,147.95
+H00451,Asia,Japan,Geothermal,1767.13,2023,7,Middle,Urban,2016,false,34.54
+H02457,Europe,UK,Hydro,123.42,2024,3,Middle,Rural,2019,true,237.45
+H04723,Europe,France,Biomass,1663.43,2023,5,Middle,Rural,2017,false,75.26
+H02012,Asia,South Korea,Hydro,622.13,2022,3,Middle,Rural,2015,true,205.46
+H02687,Africa,Nigeria,Hydro,561.22,2021,1,Middle,Urban,2010,true,393.03
+H01787,Asia,China,Solar,317.09,2023,6,Middle,Rural,2022,false,211.98
+H03271,Australia,Australia,Hydro,804.07,2024,6,Middle,Rural,2014,false,181.86
+H03228,Asia,Japan,Wind,1225.25,2024,2,Middle,Urban,2020,false,166.90
+H01989,Australia,Australia,Solar,1308.13,2022,5,Middle,Urban,2010,true,72.19
+H00832,Asia,Indonesia,Solar,850.93,2022,1,Middle,Rural,2019,true,127.46
+H02776,North America,USA,Solar,1238.88,2023,3,Middle,Rural,2013,true,73.70
+H04712,Asia,Japan,Wind,1267.98,2021,6,Middle,Urban,2018,false,246.14
+H03215,Europe,Germany,Wind,501.46,2023,6,Middle,Rural,2010,true,218.60
+H02733,Australia,Australia,Biomass,310.69,2020,7,Middle,Urban,2017,true,179.48
+H01833,South America,Brazil,Hydro,1478.47,2020,1,Low,Rural,2013,false,285.99
+H03854,Europe,Spain,Geothermal,940.53,2023,1,Low,Urban,2022,true,65.13
+H03617,Australia,Australia,Geothermal,577.03,2020,1,Low,Rural,2017,false,40.10
+H00799,Europe,Germany,Hydro,578.15,2020,6,Low,Urban,2011,true,128.79
+H02793,Africa,Ghana,Wind,1060.07,2023,5,Low,Rural,2010,false,26.47
+H02241,Australia,Australia,Biomass,1349.66,2024,7,Low,Rural,2022,false,219.35
+H04664,Australia,New Zealand,Hydro,1291.32,2020,2,Low,Rural,2011,false,171.65
+H01910,Asia,India,Geothermal,627.79,2023,4,Low,Urban,2014,false,53.14
+H03410,North America,Mexico,Biomass,191.85,2022,7,Low,Urban,2015,false,49.16
+H04675,Asia,South Korea,Biomass,715.99,2020,7,Low,Urban,2011,true,157.93
+H02830,Europe,Germany,Biomass,1368.77,2023,1,Low,Rural,2011,true,250.52
+H02419,Australia,New Zealand,Biomass,212.06,2021,3,Low,Urban,2015,true,272.22
+H03099,Australia,New Zealand,Geothermal,425.99,2022,7,Low,Rural,2015,false,47.66
+H00284,Europe,UK,Solar,1111.13,2022,5,Low,Rural,2021,true,230.86
+H03461,Asia,South Korea,Wind,1171.85,2023,3,Low,Rural,2010,false,341.45
+H02306,North America,Canada,Geothermal,442.33,2023,5,Low,Rural,2022,true,126.73
+H02686,Europe,UK,Wind,686.28,2023,4,Low,Urban,2017,false,149.66
+H00928,North America,Mexico,Solar,658.80,2024,5,Low,Urban,2024,false,340.22
+H01210,Europe,Spain,Wind,778.60,2021,7,Low,Rural,2014,false,291.34
+H03974,North America,Mexico,Solar,635.37,2023,4,Low,Urban,2019,false,344.65
+H03546,South America,Peru,Biomass,1210.79,2024,5,Low,Rural,2010,false,262.04
+H00352,Australia,Australia,Solar,129.95,2021,7,Low,Rural,2020,false,165.07
+H04899,Asia,Indonesia,Biomass,1297.95,2021,1,Low,Urban,2015,true,281.32
+H03394,Australia,Australia,Hydro,330.87,2022,8,Low,Urban,2018,true,346.56
+H04982,South America,Peru,Hydro,1293.03,2022,3,Low,Urban,2011,true,263.21
+H00834,Australia,New Zealand,Hydro,1063.37,2024,8,Low,Urban,2021,true,107.98
+H00367,Asia,Indonesia,Geothermal,702.15,2024,1,Low,Urban,2024,false,311.38
+H04847,Asia,Japan,Solar,1351.94,2020,3,Low,Urban,2013,false,114.44
+H00219,Africa,Ghana,Geothermal,801.50,2020,6,Low,Rural,2013,false,244.80
+H01488,North America,Canada,Wind,595.67,2020,5,Low,Urban,2012,true,13.12
+H00439,Australia,Australia,Solar,1045.47,2023,6,Low,Urban,2022,true,209.96
+H02751,North America,USA,Biomass,459.09,2020,5,Low,Urban,2010,false,169.86
+H03289,Europe,France,Geothermal,1567.86,2021,8,Low,Rural,2019,true,176.00
+H04651,North America,Canada,Geothermal,1336.65,2022,6,Low,Rural,2012,true,85.58
+H00803,North America,USA,Geothermal,150.32,2022,4,Low,Rural,2019,true,309.02
+H02078,Africa,Nigeria,Biomass,1071.54,2020,6,Low,Rural,2018,false,212.00
+H00583,North America,USA,Geothermal,403.81,2023,1,Low,Urban,2019,false,263.77
+H03479,Australia,Australia,Hydro,1435.52,2021,2,Low,Urban,2011,false,61.21
+H01019,Australia,Australia,Biomass,367.62,2024,7,Low,Urban,2020,true,213.30
+H01584,North America,Canada,Biomass,877.36,2022,6,Low,Rural,2015,false,129.35
+H03351,Asia,India,Hydro,949.84,2022,8,Low,Urban,2022,true,93.81
+H00518,North America,USA,Hydro,870.25,2024,1,Low,Urban,2023,false,188.27
+H01748,North America,Canada,Geothermal,1455.43,2023,4,Low,Rural,2022,false,117.76
+H04653,Asia,China,Hydro,1519.40,2021,5,Low,Urban,2013,true,193.36
+H03027,Europe,UK,Solar,910.91,2020,8,Low,Rural,2014,false,200.75
+H03393,Asia,India,Hydro,721.16,2020,5,Low,Rural,2013,true,43.58
+H03486,South America,Argentina,Geothermal,404.26,2022,6,Low,Rural,2019,false,32.84
+H03380,South America,Brazil,Hydro,1605.85,2021,3,Low,Urban,2020,true,107.79
+H04859,North America,Canada,Wind,1083.90,2021,2,Low,Urban,2020,false,20.71
+H02684,North America,Mexico,Hydro,117.02,2020,1,Low,Rural,2014,false,329.90
+H01504,South America,Chile,Hydro,546.74,2023,7,Low,Urban,2012,false,88.69
+H04106,Asia,India,Wind,823.39,2021,7,Low,Urban,2010,false,168.41
+H00197,Australia,Australia,Solar,181.41,2024,2,Low,Rural,2018,false,209.94
+H01544,Europe,Germany,Solar,298.55,2023,5,Low,Rural,2012,true,44.72
+H00880,South America,Chile,Solar,163.13,2023,7,Low,Urban,2015,false,128.00
+H03895,Europe,Italy,Geothermal,435.77,2020,1,Low,Urban,2018,false,186.81
+H04211,Australia,Australia,Wind,1192.81,2020,6,Low,Rural,2018,true,66.54
+H03354,Australia,New Zealand,Wind,265.93,2022,7,Low,Urban,2022,true,102.45
+H01540,North America,USA,Solar,693.62,2022,3,Low,Rural,2015,true,343.99
+H02331,Australia,Australia,Hydro,1076.63,2021,4,Low,Urban,2013,false,318.39
+H03044,South America,Argentina,Solar,753.16,2020,4,Low,Urban,2012,true,227.13
+H04735,Europe,UK,Geothermal,639.24,2024,4,Low,Rural,2020,true,142.05
+H00595,Africa,South Africa,Solar,272.23,2020,2,Low,Rural,2019,false,211.86
+H01500,South America,Colombia,Hydro,1477.87,2023,6,Low,Rural,2019,true,312.66
+H01558,Africa,South Africa,Biomass,936.58,2020,7,Low,Urban,2019,true,101.19
+H03625,South America,Brazil,Wind,1492.01,2021,2,Low,Rural,2011,true,309.13
+H00089,Europe,Italy,Biomass,330.89,2023,5,Low,Urban,2023,false,46.28
+H01306,Europe,Spain,Wind,1097.10,2022,8,Low,Urban,2020,false,333.63
+H02926,Africa,Kenya,Geothermal,1573.52,2024,1,Low,Rural,2021,false,319.45
+H03755,Europe,Spain,Hydro,112.43,2020,2,Low,Rural,2014,true,253.24
+H03647,Europe,Germany,Biomass,1358.75,2021,5,Low,Rural,2020,false,332.16
+H00945,Africa,South Africa,Solar,957.67,2024,7,Low,Urban,2012,true,300.55
+H04232,Europe,UK,Geothermal,1292.17,2021,6,Low,Rural,2021,true,75.31
+H02308,Asia,Japan,Biomass,1115.27,2021,2,Low,Urban,2021,false,346.55
+H01927,Australia,New Zealand,Biomass,501.42,2020,7,Low,Urban,2013,false,177.08
